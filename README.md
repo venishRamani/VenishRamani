@@ -1,8 +1,8 @@
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=E6EDF3&vCenter=true&width=500&height=35&lines=Venish+Ramani+%E2%80%94+Full-Stack+Developer;Building+Management+Systems+%26+APIs;Surat%2C+Gujarat%2C+India" alt="Venish Ramani" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=E6EDF3&vCenter=true&width=500&height=35&lines=Venish+Ramani+%E2%80%94+Web+Developer;Building+Full-Stack+Web+Apps+%26+APIs" alt="Venish Ramani" />
 </div>
 
-I build internal tools, management platforms, and web applications that replace manual paperwork and messy spreadsheets with reliable, structured software.
+Web developer focused on building responsive, user-friendly interfaces and reliable full-stack web applications.
 
 ---
 
@@ -17,12 +17,12 @@ I build internal tools, management platforms, and web applications that replace 
       <img src="https://skillicons.dev/icons?i=nodejs,python,java,cs,php,go,django,spring,git&theme=dark" alt="Backend" />
     </td>
     <td width="45%" valign="top">
-      <strong>ENGINEERING FOCUS</strong><br><br>
-      <code>▸</code> End-to-End Management Software<br>
+      <strong>WEB DEV FOCUS</strong><br><br>
+      <code>▸</code> Full-Stack Web Applications<br>
+      <code>▸</code> Responsive UI & Component Architecture<br>
       <code>▸</code> Multi-Stack RESTful APIs<br>
-      <code>▸</code> Role-Based Access & Auth<br>
-      <code>▸</code> Relational & NoSQL Schemas<br>
-      <code>▸</code> Clean, Responsive Interfaces
+      <code>▸</code> Authentication & Database Design<br>
+      <code>▸</code> Clean, Maintainable Web Code
     </td>
   </tr>
 </table>
@@ -42,4 +42,11 @@ I build internal tools, management platforms, and web applications that replace 
 ### `03` // ACTIVITY & ENDPOINTS
 
 <p>
-  <img src="
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VenishRamani&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=E6EDF3" alt="GitHub Streak" height="145" />
+</p>
+
+<p>
+  <a href="https://github.com/VenishRamani"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/VenishRamani"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
