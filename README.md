@@ -1,5 +1,5 @@
 <div align="right">
-  <code>SURAT, IN</code> • <code>FULL-STACK SYSTEMS</code>
+  <code>INDIA </code> • <code>FULL-STACK SYSTEMS</code>
 </div>
 
 # VENISH RAMANI
@@ -10,7 +10,7 @@
 
 ### `01` ABOUT
 
-I am a **Full-Stack Web Developer** based in **Surat, India**, focused on turning complex real-world operations—like facility administration, logistics tracking, and residential management—into simple, reliable software.
+I am a **Full-Stack Web Developer** based in **India**, focused on turning complex real-world operations—like facility administration, logistics tracking, and residential management—into simple, reliable software.
 
 * **Core Focus:** End-to-end web architecture, database-driven management systems, and responsive user interfaces.
 * **Engineering Approach:** Choosing the right backend runtime for the job while keeping codebases modular, readable, and easy to maintain.
