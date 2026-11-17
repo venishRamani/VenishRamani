@@ -1,28 +1,32 @@
-## Venish Ramani — Surat, IN
+### Venish Ramani
+`Full-Stack Web Developer` — `Surat, India`
 
-Full-stack developer. I build management systems and web applications designed to replace manual paperwork and messy spreadsheets.
+I build internal tools, management platforms, and web applications that replace manual paperwork and messy spreadsheets with clean, reliable software.
 
-```text
-STACK
-├── Frontend   HTML · CSS · JavaScript · TypeScript · React · Next.js
-├── Backend    Node.js · Python · Java · C# · PHP · Go
-├── Frameworks Django · Spring Boot
-└── Tools      Git · REST APIs · SQL / NoSQL
+---
 
-PROJECTS
-    Hostel-Management
-        Tracks student room allocations, resident records, and fee payments.
-        -> [https://github.com/VenishRamani/Hostel-Management](https://github.com/VenishRamani/Hostel-Management)
+#### Stack & Environment
 
-    COURIER-MANAGEMENT-SYSTEM
-        Handles parcel dispatch, consignment tracking, and branch delivery logs.
-        -> [https://github.com/VenishRamani/COURIER-MANAGEMENT-SYSTEM](https://github.com/VenishRamani/COURIER-MANAGEMENT-SYSTEM)
+| Layer | Tools |
+| :--- | :--- |
+| **Frontend** | HTML, CSS, JavaScript, TypeScript, React, Next.js |
+| **Backend** | Node.js, Python, Java, C#, PHP, Go |
+| **Frameworks** | Django, Spring Boot |
+| **Core** | Git, REST APIs, Relational & NoSQL Databases |
 
-    Apartment-management
-        Manages flat directories, maintenance tickets, visitor logs, and billing.
-        -> [https://github.com/VenishRamani/Apartment-management](https://github.com/VenishRamani/Apartment-management)
+---
 
-SEE ALSO
-    GitHub      [https://github.com/VenishRamani](https://github.com/VenishRamani)
-    LinkedIn    [https://linkedin.com/in/VenishRamani](https://linkedin.com/in/VenishRamani)
-    Email       your.email@example.com
+#### Selected Systems
+
+* **`01` [Hostel-Management](https://github.com/VenishRamani/Hostel-Management)**
+  Student accommodation system handling room allocation, resident profiles, and fee records.
+
+* **`02` [COURIER-MANAGEMENT-SYSTEM](https://github.com/VenishRamani/COURIER-MANAGEMENT-SYSTEM)**
+  Logistics tracking software built for parcel dispatch, consignment status updates, and branch logs.
+
+* **`03` [Apartment-management](https://github.com/VenishRamani/Apartment-management)**
+  Residential administration platform for flat directories, maintenance tickets, visitor entries, and society billing.
+
+---
+
+[GitHub](https://github.com/VenishRamani) / [LinkedIn](https://linkedin.com/in/VenishRamani) / [Email](mailto:your.email@example.com)
