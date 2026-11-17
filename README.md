@@ -1,18 +1,13 @@
+## Venish Ramani — Surat, IN
+
+Full-stack developer. I build management systems and web applications designed to replace manual paperwork and messy spreadsheets.
+
 ```text
-VENISH(1)                     Developer Manual                     VENISH(1)
-
-NAME
-    Venish Ramani — full-stack web developer (Surat, India)
-
-SYNOPSIS
-    Building management software, backend APIs, and web interfaces that
-    replace messy spreadsheets and paper registers.
-
 STACK
-    frontend    HTML, CSS, JavaScript, TypeScript, React, Next.js
-    backend     Node.js, Python, Java, C#, PHP, Go
-    frameworks  Django, Spring Boot
-    tools       Git, REST APIs, SQL/NoSQL
+├── Frontend   HTML · CSS · JavaScript · TypeScript · React · Next.js
+├── Backend    Node.js · Python · Java · C# · PHP · Go
+├── Frameworks Django · Spring Boot
+└── Tools      Git · REST APIs · SQL / NoSQL
 
 PROJECTS
     Hostel-Management
