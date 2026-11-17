@@ -47,12 +47,14 @@ A residential administration suite tailored for apartment complexes and housing 
 ### `04` ENGINEERING STRENGTHS
 
 * **Polyglot Backend Versatility:** Experienced working across multiple server-side ecosystems—including **Java (Spring Boot)**, **Python (Django)**, **Node.js**, **C#**, **PHP**, and **Go**—allowing flexibility across different architectures and legacy or modern stacks.
+
 * **Workflow & Data Modeling:** Strong focus on structured CRUD architectures, role-based access workflows, and clean relational data organization for operational software.
+
 * **Modern Frontend Execution:** Translating multi-step administrative tasks into fast, accessible browser experiences using **TypeScript**, **React**, and **Next.js**.
 
 ---
 
 ### `05` CONNECT
 
-`GITHUB` → [github.com/YOUR_GITHUB_USERNAME](https://github.com/VenishRamani)  
+`GITHUB` → [github.com/VenishRamani](https://github.com/VenishRamani)  
 `LINKEDIN` → [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)
