@@ -7,12 +7,19 @@ I build internal tools, management platforms, and web applications that replace 
 
 #### Stack & Environment
 
-| Layer | Tools |
-| :--- | :--- |
-| **Frontend** | HTML, CSS, JavaScript, TypeScript, React, Next.js |
-| **Backend** | Node.js, Python, Java, C#, PHP, Go |
-| **Frameworks** | Django, Spring Boot |
-| **Core** | Git, REST APIs, Relational & NoSQL Databases |
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark" alt="Frontend" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,java,cs,php,go&theme=dark" alt="Backend" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=django,spring,git&theme=dark" alt="Frameworks & Tools" />
+</p>
+
+* **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js
+* **Backend:** Node.js, Python, Java, C#, PHP, Go
+* **Frameworks & Tools:** Django, Spring Boot, Git, REST APIs
 
 ---
 
@@ -29,4 +36,4 @@ I build internal tools, management platforms, and web applications that replace 
 
 ---
 
-[GitHub](https://github.com/VenishRamani) / [LinkedIn](https://linkedin.com/in/VenishRamani) / [Email](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/VenishRamani)
