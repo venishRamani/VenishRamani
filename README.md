@@ -1,5 +1,6 @@
-# Venish Ramani
-**Full-Stack Web Developer — Building Full-Stack Web Apps & APIs**
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=E6EDF3&vCenter=true&width=500&height=35&lines=Venish+Ramani+%E2%80%94+Web+Developer;Building+Full-Stack+Web+Apps+%26+APIs" alt="Venish Ramani" />
+</div>
 
 Web developer focused on building responsive, user-friendly interfaces and reliable full-stack web applications.
 
@@ -10,10 +11,10 @@ Web developer focused on building responsive, user-friendly interfaces and relia
 <table>
   <tr>
     <td width="55%" valign="top">
-      <strong>FRONTEND</strong><br><br>
-      <code>HTML5</code> &nbsp; <code>CSS3</code> &nbsp; <code>JavaScript</code> &nbsp; <code>TypeScript</code> &nbsp; <code>React</code> &nbsp; <code>Next.js</code><br><br>
-      <strong>BACKEND & FRAMEWORKS</strong><br><br>
-      <code>Node.js</code> &nbsp; <code>Python</code> &nbsp; <code>Java</code> &nbsp; <code>C#</code> &nbsp; <code>PHP</code> &nbsp; <code>Go</code> &nbsp; <code>Django</code> &nbsp; <code>Spring</code> &nbsp; <code>Git</code>
+      <strong>FRONTEND</strong><br>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark" alt="Frontend" /><br><br>
+      <strong>BACKEND & FRAMEWORKS</strong><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,python,java,cs,php,go,django,spring,git&theme=dark" alt="Backend" />
     </td>
     <td width="45%" valign="top">
       <strong>WEB DEV FOCUS</strong><br><br>
@@ -30,19 +31,19 @@ Web developer focused on building responsive, user-friendly interfaces and relia
 
 ### `02` // SELECTED SYSTEMS
 
-| ID | System | Domain | What It Solves | Live Demo |
-| :--- | :--- | :--- | :--- | :--- |
-| **`01`** | **[Hostel-Management](https://github.com)** | `Facility Ops` | Automates student room allocation, resident profiles, and fee tracking. | [Live Demo ↗](https://github.io) |
-| **`02`** | **[Frontend-Projects](https://github.com)** | `Frontend-Projects` | All types of Frontend-Projects. | [Live Demo ↗](https://github.io) |
-| **`03`** | **[Apartment-management](https://github.com)** | `Residential` | Centralizes flat directories, maintenance tickets, visitor entries, and billing. | [Live Demo ↗](https://github.io) |
-| **`04`** | **[Tourism-website](https://github.com)** | `Tourism` | Helps travelers discover destinations, compare trips, and book travel easily. | [Live Demo ↗](https://github.io) |
-| **`05`** | **[Camping site](https://github.com)** | `Camping` | An outdoor area where people pitch tents or park campers to stay overnight in nature. | [Live Demo ↗](https://github.io) |
+| ID | System | Domain | What It Solves |
+| :--- | :--- | :--- | :--- |
+| **`01`** | **[Hostel-Management](https://github.com/VenishRamani/Hostel-Management)** | `Facility Ops` | Automates student room allocation, resident profiles, and fee tracking. |
+| **`02`** | **[Frontend-Projects](https://github.com/venishRamani/Frontend-Projects)** | `Frontend-Projects` | All types of Frontend-Projects. |
+| **`03`** | **[Apartment-management](https://github.com/VenishRamani/Apartment-management)** | `Residential` | Centralizes flat directories, maintenance tickets, visitor entries, and billing. |
+| **`04`** | **[Tourism-website](https://github.com/VenishRamani/Tourism-website)** | `Tourism` | Helps travelers discover destinations, compare trips, and book travel easily. |
+| **`05`** | **[Camping site](https://github.com/VenishRamani/CampIndia)** | `Camping` | An outdoor area where people pitch tents or park campers to stay overnight in nature. |
 
 ---
 
 <p>
-  <kbd><a href="https://github.io">&nbsp; 🌐 <b>PORTFOLIO</b> &nbsp;</a></kbd> &nbsp;
-  <kbd><a href="https://github.com">&nbsp; 🐙 <b>GITHUB</b> &nbsp;</a></kbd> &nbsp;
-  <kbd><a href="https://linkedin.com">&nbsp; 💼 <b>LINKEDIN</b> &nbsp;</a></kbd> &nbsp;
-  <kbd><a href="mailto:ramanivenish2004@gmail.com">&nbsp; ✉️ <b>EMAIL</b> &nbsp;</a></kbd>
+  <a href="https://github.io"><img src="https://shields.io" alt="Portfolio" /></a>
+  <a href="https://github.com/VenishRamani"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/VenishRamani"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ramanivenish2004@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
