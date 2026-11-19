@@ -58,7 +58,10 @@ const developer = {
 ---
 
 <p align="center">
-  <kbd><a href="https://github.com">&nbsp; 🐙 <b>GITHUB</b> &nbsp;</a></kbd> &nbsp;&nbsp;
-  <kbd><a href="https://linkedin.com">&nbsp; 💼 <b>LINKEDIN</b> &nbsp;</a></kbd> &nbsp;&nbsp;
-  <kbd><a href="mailto:ramanivenish2004@gmail.com">&nbsp; ✉️ <b>EMAIL</b> &nbsp;</a></kbd>
+  <a href="https://github.com"><img src="https://shields.io" height="40" alt="GitHub" /></a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com"><img src="https://shields.io" height="40" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:ramanivenish2004@gmail.com"><img src="https://shields.io" height="40" alt="Email" /></a>
 </p>
+
