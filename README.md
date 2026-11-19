@@ -41,8 +41,13 @@ Web developer focused on building responsive, user-friendly interfaces and relia
 
 ---
 
+### `03` // PORTFOLIO
+
+🌐 **Live Portfolio:** **[venishramani.github.io/Portfolio ↗](https://github.io)** — Explore live project demos, UI builds, and full case studies.
+
+---
+
 <p>
-  <kbd><a href="https://github.io">&nbsp; <b>PORTFOLIO</b> &nbsp;</a></kbd> &nbsp;
   <a href="https://github.com"><img src="https://shields.io" alt="GitHub" /></a>
   <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn" /></a>
   <a href="mailto:ramanivenish2004@gmail.com"><img src="https://shields.io" alt="Email" /></a>
