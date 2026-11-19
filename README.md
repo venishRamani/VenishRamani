@@ -1,55 +1,54 @@
-<div align="center">
-
-# Venish Ramani
-**Full-Stack Web Developer & Software Solutions Architect**
-
-*Web developer focused on building responsive, user-friendly interfaces and reliable full-stack web applications.*
-
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=E6EDF3&vCenter=true&width=500&height=35&lines=Venish+Ramani+%E2%80%94+Web+Developer;Building+Full-Stack+Web+Apps+%26+APIs" alt="Venish Ramani" />
 </div>
+
+Web developer focused on building responsive, user-friendly interfaces and reliable full-stack web applications.
 
 ---
 
-### `01` // WEB LANGUAGES, FRAMEWORKS & STACK
+### `01` // STACK & RUNTIME
 
-<div align="center">
-
-**Frontend Languages & Frameworks**  
-<img src="https://skillicons.dev" alt="Frontend Languages and Frameworks" />
-
-<br />
-
-**Backend Languages & Frameworks**  
-<img src="https://skillicons.dev" alt="Backend Languages and Frameworks" />
-
-</div>
-
-<br />
-
-> **All Web Languages & Technologies:** `HTML5` • `CSS3` • `JavaScript (ES6+)` • `TypeScript` • `Python` • `Java` • `C#` • `PHP` • `Go` • `SQL` • `React.js` • `Next.js` • `Node.js` • `Express.js` • `Django` • `Spring` • `Laravel` • `Tailwind CSS` • `Bootstrap` • `MySQL` • `PostgreSQL` • `MongoDB` • `Git` • `GitHub`  
-> **Core Focus:** Full-Stack Web Applications • Responsive Component Architecture • Multi-Stack RESTful APIs • Role-Based Auth & Database Design
-
----
-
-### `02` // SELECTED SYSTEMS & LIVE DEMOS
-
-| System | Domain | Overview & Links |
-| :--- | :--- | :--- |
-| **[Hostel-Management](https://github.com)** | `Facility Ops` | Automates student room allocation, resident profiles, attendance logs, and fee tracking.<br />[**🌐 Live Demo ↗**](https://github.io) &nbsp;•&nbsp; [**💻 Source Code ↗**](https://github.com) |
-| **[CampIndia](https://github.com)** | `Travel & Camping` | Full-stack camping discovery and booking platform for outdoor destinations across India.<br />[**🌐 Live Demo ↗**](https://github.io) &nbsp;•&nbsp; [**💻 Source Code ↗**](https://github.com) |
-| **[Apartment-Management](https://github.com)** | `Residential Ops` | Centralizes flat directories, resident onboarding, maintenance tickets, and automated billing.<br />[**🌐 Live Demo ↗**](https://github.io) &nbsp;•&nbsp; [**💻 Source Code ↗**](https://github.com) |
-| **[Tourism-Website](https://github.com)** | `Tourism` | Responsive travel showcase enabling explorers to compare tour packages and plan trips.<br />[**🌐 Live Demo ↗**](https://github.io) &nbsp;•&nbsp; [**💻 Source Code ↗**](https://github.com) |
-| **[Frontend-Projects](https://github.com)** | `UI Engineering` | Collection of 10+ standalone browser apps including a Contact Manager, Todo App, and Password Generator.<br />[**🌐 Live Demo ↗**](https://github.io) &nbsp;•&nbsp; [**💻 Source Code ↗**](https://github.com) |
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <strong>FRONTEND</strong><br>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark" alt="Frontend" /><br><br>
+      <strong>BACKEND & FRAMEWORKS</strong><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,python,java,cs,php,go,django,spring,git&theme=dark" alt="Backend" />
+    </td>
+    <td width="45%" valign="top">
+      <strong>WEB DEV FOCUS</strong><br><br>
+      <code>▸</code> Full-Stack Web Applications<br>
+      <code>▸</code> Responsive UI & Component Architecture<br>
+      <code>▸</code> Multi-Stack RESTful APIs<br>
+      <code>▸</code> Authentication & Database Design<br>
+      <code>▸</code> Clean, Maintainable Web Code
+    </td>
+  </tr>
+</table>
 
 ---
 
-### `03` // CONNECT & ENDPOINTS
+### `02` // SELECTED SYSTEMS
 
-<div align="center">
+| ID | System | Domain | What It Solves |
+| :--- | :--- | :--- | :--- |
+| **`01`** | **[Hostel-Management](https://github.com/VenishRamani/Hostel-Management)** | `Facility Ops` | Automates student room allocation, resident profiles, and fee tracking. |
+| **`02`** | **[Frontend-Projects](https://github.com/venishRamani/Frontend-Projects)** | `Frontend-Projects` | All types of Frontend-Projects. |
+| **`03`** | **[Apartment-management](https://github.com/VenishRamani/Apartment-management)** | `Residential` | Centralizes flat directories, maintenance tickets, visitor entries, and billing. |
+| **`04`** | **[Tourism-website](https://github.com/VenishRamani/Tourism-website)** | `Tourism` | Helps travelers discover destinations, compare trips, and book travel easily. |
+| **`05`** | **[Camping site](https://github.com/VenishRamani/CampIndia)** | `Camping` | An outdoor area where people pitch tents or park campers to stay overnight in nature. |
 
-[**🌐 Live Portfolio ↗**](https://github.io) &nbsp;&nbsp;•&nbsp;&nbsp; [**🐙 GitHub ↗**](https://github.com) &nbsp;&nbsp;•&nbsp;&nbsp; [**💼 LinkedIn ↗**](https://linkedin.com) &nbsp;&nbsp;•&nbsp;&nbsp; [**✉️ ramanivenish2004@gmail.com ↗**](mailto:ramanivenish2004@gmail.com)
+---
 
-<br />
+### `03` // ACTIVITY & ENDPOINTS
 
-<sub>**VENISH RAMANI** &nbsp;•&nbsp; Full-Stack Web Developer &nbsp;•&nbsp; Built with precision</sub>
+<p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=VenishRamani&theme=highcontrast&hide_border=true&border_radius=4.6&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+</p>
 
-</div>
+<p>
+  <a href="https://github.com/VenishRamani"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/VenishRamani"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ramanivenish2004@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
