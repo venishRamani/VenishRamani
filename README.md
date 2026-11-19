@@ -1,95 +1,82 @@
+```text
+┌──────────────────────────────────────────────────────────────────────────────┐
+│  VENISH RAMANI  //  FULL-STACK SOFTWARE ENGINEER                             │
+│  Web Architecture • Scalable APIs • Precision User Interfaces                │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
 <div align="center">
 
-# `⚡` VENISH RAMANI
-
-**FULL-STACK SOFTWARE ENGINEER &nbsp;•&nbsp; WEB ARCHITECT &nbsp;•&nbsp; UI CRAFTSMAN**
-
-[**🌐 Explore Live Portfolio ↗**](https://github.io) &nbsp;&nbsp;|&nbsp;&nbsp; [**📂 All Repositories ↗**](https://github.com) &nbsp;&nbsp;|&nbsp;&nbsp; `🟢 Open to Collaborations`
+[**`🌐` LIVE PORTFOLIO ↗**](https://github.io) &nbsp;&nbsp;•&nbsp;&nbsp; [**`⚡` REPOSITORIES ↗**](https://github.com) &nbsp;&nbsp;•&nbsp;&nbsp; **`🟢` STATUS: AVAILABLE FOR OPPORTUNITIES**
 
 </div>
 
-> [!NOTE]
-> **Engineering Philosophy:** Building scalable, production-ready full-stack web systems from normalized database schemas to pixel-accurate, responsive user interfaces.
+> [!IMPORTANT]
+> **SYSTEM BRIEF:** Engineering end-to-end web platforms that pair clean, maintainable backend architecture with fast, responsive, user-first interfaces.
 
 ---
 
-### `01` &nbsp; FEATURED SYSTEMS & ARCHITECTURE
+### `01` &nbsp; SELECTED ARCHITECTURE & DEPLOYMENTS
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><code>01</code> &nbsp; <a href="https://github.com">CampIndia ↗</a></h3>
-      <p><b>Outdoor Discovery & Trip Booking Platform</b></p>
-      <p>Full-stack web application enabling travelers to explore curated camping destinations, compare packages, and book outdoor experiences across India.</p>
-      <code>Full-Stack</code> &nbsp; <code>Booking Engine</code> &nbsp; <code>Web App</code>
+      <code>SYS // 01</code> &nbsp;•&nbsp; <code>TRAVEL & BOOKING</code>
+      <h3><a href="https://github.com">CampIndia ↗</a></h3>
+      <p>Full-stack outdoor discovery and trip booking engine connecting travelers with curated camping destinations across India.</p>
+      <sub><b>KEY FOCUS:</b> &nbsp;<code>Full-Stack Architecture</code> &nbsp;<code>Booking Flow</code> &nbsp;<code>Responsive UI</code></sub>
     </td>
     <td width="50%" valign="top">
-      <h3><code>02</code> &nbsp; <a href="https://github.com">Apartment Management ↗</a></h3>
-      <p><b>Smart Residential Operations Suite</b></p>
-      <p>Centralized property management system streamlining flat directories, resident profiles, maintenance requests, visitor logs, and automated billing.</p>
-      <code>PropTech</code> &nbsp; <code>Database Design</code> &nbsp; <code>CRUD Ops</code>
+      <code>SYS // 02</code> &nbsp;•&nbsp; <code>PROPTECH & OPS</code>
+      <h3><a href="https://github.com">Apartment Management ↗</a></h3>
+      <p>Centralized residential management suite automating flat directories, resident profiles, maintenance tickets, visitor logs, and billing.</p>
+      <sub><b>KEY FOCUS:</b> &nbsp;<code>Relational DB</code> &nbsp;<code>Role-Based Ops</code> &nbsp;<code>CRUD Systems</code></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><code>03</code> &nbsp; <a href="https://github.com">Tourism Website ↗</a></h3>
-      <p><b>Interactive Travel & Destination Portal</b></p>
-      <p>Modern responsive travel showcase enabling explorers to browse destinations, inspect curated itineraries, and plan hassle-free getaways.</p>
-      <code>Responsive UI</code> &nbsp; <code>Travel Tech</code> &nbsp; <code>Frontend</code>
+      <code>SYS // 03</code> &nbsp;•&nbsp; <code>HOSPITALITY & WEB</code>
+      <h3><a href="https://github.com">Tourism Website ↗</a></h3>
+      <p>Interactive destination portal enabling explorers to browse curated travel packages, inspect itineraries, and plan seamless trips.</p>
+      <sub><b>KEY FOCUS:</b> &nbsp;<code>Modern UI/UX</code> &nbsp;<code>Mobile-First</code> &nbsp;<code>Interactive Layouts</code></sub>
     </td>
     <td width="50%" valign="top">
-      <h3><code>04</code> &nbsp; <a href="https://github.com">Frontend Projects ↗</a></h3>
-      <p><b>10+ Interactive Web Micro-Apps</b></p>
-      <p>Curated collection of standalone UI builds including a Contact Manager, Todo App, Password Generator, and animated interface components.</p>
-      <code>HTML5</code> &nbsp; <code>CSS3</code> &nbsp; <code>JavaScript</code>
+      <code>SYS // 04</code> &nbsp;•&nbsp; <code>UI ENGINEERING</code>
+      <h3><a href="https://github.com">Frontend Projects Suite ↗</a></h3>
+      <p>Curated lab of 10+ standalone interactive web applications including a Contact Manager, Todo System, and Password Generator.</p>
+      <sub><b>KEY FOCUS:</b> &nbsp;<code>HTML5</code> &nbsp;<code>CSS3</code> &nbsp;<code>Vanilla JS</code> &nbsp;<code>DOM Craft</code></sub>
     </td>
   </tr>
 </table>
 
 ---
 
-### `02` &nbsp; TECHNICAL MATRIX & CAPABILITIES
+### `02` &nbsp; TECHNICAL STACK & DOMAIN FOCUS
 
 <table>
   <tr>
-    <th align="left" width="28%">Layer</th>
-    <th align="left" width="72%">Technologies & Engineering Focus</th>
-  </tr>
-  <tr>
-    <td><b>🎨 Frontend & UI</b></td>
-    <td><code>HTML5</code> &nbsp; <code>CSS3</code> &nbsp; <code>JavaScript (ES6+)</code> &nbsp; <code>TypeScript</code> &nbsp; <code>React.js</code> &nbsp; <code>Next.js</code> &nbsp; <code>Tailwind CSS</code></td>
-  </tr>
-  <tr>
-    <td><b>⚙️ Backend & APIs</b></td>
-    <td><code>Node.js</code> &nbsp; <code>Express.js</code> &nbsp; <code>Python</code> &nbsp; <code>Django</code> &nbsp; <code>PHP</code> &nbsp; <code>RESTful APIs</code> &nbsp; <code>Auth & RBAC</code></td>
-  </tr>
-  <tr>
-    <td><b>🗄️ Databases</b></td>
-    <td><code>MySQL</code> &nbsp; <code>PostgreSQL</code> &nbsp; <code>MongoDB</code> &nbsp; <code>Schema Normalization</code> &nbsp; <code>Query Optimization</code></td>
-  </tr>
-  <tr>
-    <td><b>🛠️ DevOps & Tools</b></td>
-    <td><code>Git</code> &nbsp; <code>GitHub</code> &nbsp; <code>Docker</code> &nbsp; <code>Postman</code> &nbsp; <code>VS Code</code> &nbsp; <code>CI/CD Workflows</code></td>
-  </tr>
-</table>
-
----
-
-### `03` &nbsp; CORE PILLARS
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4><code>◆</code> End-to-End Delivery</h4>
-      <p>Architecting complete web applications from relational data modeling to responsive client-side state management.</p>
+    <td width="55%" valign="top">
+      <strong>CORE TECHNOLOGIES</strong>
+      <br /><br />
+      <code>FRONTEND</code> &nbsp;→&nbsp; <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>TypeScript</code> <code>React</code> <code>Next.js</code> <code>Tailwind</code>
+      <br /><br />
+      <code>BACKEND</code> &nbsp;&nbsp;→&nbsp; <code>Node.js</code> <code>Express</code> <code>Python</code> <code>Django</code> <code>PHP</code> <code>Laravel</code>
+      <br /><br />
+      <code>DATABASE</code> →&nbsp; <code>MySQL</code> <code>PostgreSQL</code> <code>MongoDB</code> <code>Schema Design</code>
+      <br /><br />
+      <code>DEVOPS</code> &nbsp;&nbsp;&nbsp;→&nbsp; <code>Git</code> <code>GitHub</code> <code>Docker</code> <code>Postman</code> <code>Linux</code>
     </td>
-    <td width="33%" valign="top">
-      <h4><code>◆</code> Clean Modular Code</h4>
-      <p>Writing readable, maintainable codebases with clear separation of concerns and reusable UI components.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h4><code>◆</code> Performance & UX</h4>
-      <p>Prioritizing fast load times, intuitive navigation, and mobile-first layouts across every device size.</p>
+    <td width="45%" valign="top">
+      <strong>ENGINEERING DISCIPLINE</strong>
+      <br /><br />
+      <code>[██████████]</code> &nbsp;<b>Full-Stack Web Systems</b><br />
+      <sub>End-to-end delivery from database schema to client state.</sub>
+      <br /><br />
+      <code>[█████████░]</code> &nbsp;<b>REST API & Auth Design</b><br />
+      <sub>Secure session handling, RBAC, and modular endpoints.</sub>
+      <br /><br />
+      <code>[██████████]</code> &nbsp;<b>Responsive UI Architecture</b><br />
+      <sub>Clean component systems built for speed and clarity.</sub>
     </td>
   </tr>
 </table>
@@ -98,6 +85,8 @@
 
 <div align="center">
 
-**Explore Live Deployments & Case Studies → [venishramani.github.io/Portfolio](https://github.io)**
+`──────────────────────────────────────────────────────────────────────────────`
+
+**FULL CASE STUDIES & LIVE PREVIEWS &nbsp;→&nbsp; [venishramani.github.io/Portfolio](https://github.io)**
 
 </div>
