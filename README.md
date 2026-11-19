@@ -43,7 +43,7 @@ Web developer focused on building responsive, user-friendly interfaces and relia
 ### `03` // ACTIVITY & ENDPOINTS
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VenishRamani&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=E6EDF3" alt="GitHub Streak" height="145" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RamaniVenish&theme=highcontrast&hide_border=true&border_radius=4.6&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </p>
 
 <p>
