@@ -21,16 +21,11 @@
 **Backend Languages & Frameworks**  
 <img src="https://skillicons.dev" alt="Backend Languages and Frameworks" />
 
-<br />
-
-**Styling, Databases & Tools**  
-<img src="https://skillicons.dev" alt="Databases and Tools" />
-
 </div>
 
 <br />
 
-> **Web Languages & Tech:** `HTML5` • `CSS3` • `JavaScript (ES6+)` • `TypeScript` • `Python` • `Java` • `C#` • `PHP` • `Go` • `SQL`  
+> **All Web Languages & Technologies:** `HTML5` • `CSS3` • `JavaScript (ES6+)` • `TypeScript` • `Python` • `Java` • `C#` • `PHP` • `Go` • `SQL` • `React.js` • `Next.js` • `Node.js` • `Express.js` • `Django` • `Spring` • `Laravel` • `Tailwind CSS` • `Bootstrap` • `MySQL` • `PostgreSQL` • `MongoDB` • `Git` • `GitHub`  
 > **Core Focus:** Full-Stack Web Applications • Responsive Component Architecture • Multi-Stack RESTful APIs • Role-Based Auth & Database Design
 
 ---
@@ -58,4 +53,3 @@
 <sub>**VENISH RAMANI** &nbsp;•&nbsp; Full-Stack Web Developer &nbsp;•&nbsp; Built with precision</sub>
 
 </div>
-
