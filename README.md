@@ -34,7 +34,7 @@ Web developer focused on building responsive, user-friendly interfaces and relia
 | ID | System | Domain | What It Solves |
 | :--- | :--- | :--- | :--- |
 | **`01`** | **[Hostel-Management](https://github.com/VenishRamani/Hostel-Management)** | `Facility Ops` | Automates student room allocation, resident profiles, and fee tracking. |
-| **`02`** | **[COURIER-MANAGEMENT-SYSTEM](https://github.com/VenishRamani/COURIER-MANAGEMENT-SYSTEM)** | `Logistics` | Tracks parcel dispatch, consignment status updates, and branch delivery logs. |
+| **`02`** | **[Frontend-Projects](https://github.com/venishRamani/Frontend-Projects)** | `Logistics` | Tracks parcel dispatch, consignment status updates, and branch delivery logs. |
 | **`03`** | **[Apartment-management](https://github.com/VenishRamani/Apartment-management)** | `Residential` | Centralizes flat directories, maintenance tickets, visitor entries, and billing. |
 
 ---
