@@ -44,8 +44,8 @@ Web developer focused on building responsive, user-friendly interfaces and relia
 ---
 
 <p>
-  <a href="https://github.io"><img src="https://shields.io" alt="Portfolio" /></a>
-  <a href="https://github.com"><img src="https://shields.io" alt="GitHub" /></a>
-  <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn" /></a>
-  <a href="mailto:ramanivenish2004@gmail.com"><img src="https://shields.io" alt="Email" /></a>
+  <kbd><a href="https://github.io">&nbsp; 🌐 <b>PORTFOLIO</b> &nbsp;</a></kbd> &nbsp;
+  <kbd><a href="https://github.com">&nbsp; 🐙 <b>GITHUB</b> &nbsp;</a></kbd> &nbsp;
+  <kbd><a href="https://linkedin.com">&nbsp; 💼 <b>LINKEDIN</b> &nbsp;</a></kbd> &nbsp;
+  <kbd><a href="mailto:ramanivenish2004@gmail.com">&nbsp; ✉️ <b>EMAIL</b> &nbsp;</a></kbd>
 </p>
