@@ -1,92 +1,68 @@
-```text
-┌──────────────────────────────────────────────────────────────────────────────┐
-│  VENISH RAMANI  //  FULL-STACK SOFTWARE ENGINEER                             │
-│  Web Architecture • Scalable APIs • Precision User Interfaces                │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
-
 <div align="center">
 
-[**`🌐` LIVE PORTFOLIO ↗**](https://github.io) &nbsp;&nbsp;•&nbsp;&nbsp; [**`⚡` REPOSITORIES ↗**](https://github.com) &nbsp;&nbsp;•&nbsp;&nbsp; **`🟢` STATUS: AVAILABLE FOR OPPORTUNITIES**
+# Venish Ramani
+### Full-Stack Web Developer
+
+Building fast, responsive interfaces and reliable full-stack web applications.
+
+[**🌐 Visit Portfolio ↗**](https://venishramani.github.io/Portfolio/) &nbsp;&nbsp;•&nbsp;&nbsp; [**📂 View Repositories ↗**](https://github.com) &nbsp;&nbsp;•&nbsp;&nbsp; `🟢 Open to Opportunities`
 
 </div>
 
-> [!IMPORTANT]
-> **SYSTEM BRIEF:** Engineering end-to-end web platforms that pair clean, maintainable backend architecture with fast, responsive, user-first interfaces.
-
 ---
 
-### `01` &nbsp; SELECTED ARCHITECTURE & DEPLOYMENTS
+### 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <code>SYS // 01</code> &nbsp;•&nbsp; <code>TRAVEL & BOOKING</code>
-      <h3><a href="https://github.com">CampIndia ↗</a></h3>
-      <p>Full-stack outdoor discovery and trip booking engine connecting travelers with curated camping destinations across India.</p>
-      <sub><b>KEY FOCUS:</b> &nbsp;<code>Full-Stack Architecture</code> &nbsp;<code>Booking Flow</code> &nbsp;<code>Responsive UI</code></sub>
+      <h4><a href="https://github.com">CampIndia ↗</a></h4>
+      <p>Full-stack camping discovery and trip booking web platform connecting travelers with outdoor destinations across India.</p>
+      <code>Full-Stack</code> &nbsp; <code>Booking System</code> &nbsp; <code>Web App</code>
     </td>
     <td width="50%" valign="top">
-      <code>SYS // 02</code> &nbsp;•&nbsp; <code>PROPTECH & OPS</code>
-      <h3><a href="https://github.com">Apartment Management ↗</a></h3>
-      <p>Centralized residential management suite automating flat directories, resident profiles, maintenance tickets, visitor logs, and billing.</p>
-      <sub><b>KEY FOCUS:</b> &nbsp;<code>Relational DB</code> &nbsp;<code>Role-Based Ops</code> &nbsp;<code>CRUD Systems</code></sub>
+      <h4><a href="https://github.com">Apartment Management ↗</a></h4>
+      <p>Residential operations platform centralizing flat directories, resident profiles, maintenance requests, visitor logs, and billing.</p>
+      <code>Management System</code> &nbsp; <code>Database</code> &nbsp; <code>CRUD</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <code>SYS // 03</code> &nbsp;•&nbsp; <code>HOSPITALITY & WEB</code>
-      <h3><a href="https://github.com">Tourism Website ↗</a></h3>
-      <p>Interactive destination portal enabling explorers to browse curated travel packages, inspect itineraries, and plan seamless trips.</p>
-      <sub><b>KEY FOCUS:</b> &nbsp;<code>Modern UI/UX</code> &nbsp;<code>Mobile-First</code> &nbsp;<code>Interactive Layouts</code></sub>
+      <h4><a href="https://github.com">Tourism Website ↗</a></h4>
+      <p>Interactive travel portal helping explorers browse destinations, compare packages, and plan itineraries seamlessly.</p>
+      <code>Frontend</code> &nbsp; <code>Responsive UI</code> &nbsp; <code>Travel</code>
     </td>
     <td width="50%" valign="top">
-      <code>SYS // 04</code> &nbsp;•&nbsp; <code>UI ENGINEERING</code>
-      <h3><a href="https://github.com">Frontend Projects Suite ↗</a></h3>
-      <p>Curated lab of 10+ standalone interactive web applications including a Contact Manager, Todo System, and Password Generator.</p>
-      <sub><b>KEY FOCUS:</b> &nbsp;<code>HTML5</code> &nbsp;<code>CSS3</code> &nbsp;<code>Vanilla JS</code> &nbsp;<code>DOM Craft</code></sub>
+      <h4><a href="https://github.com">Frontend Projects ↗</a></h4>
+      <p>Collection of 10+ interactive web apps including a Contact Manager, Todo App, Password Generator, and UI components.</p>
+      <code>HTML5</code> &nbsp; <code>CSS3</code> &nbsp; <code>JavaScript</code>
     </td>
   </tr>
 </table>
 
 ---
 
-### `02` &nbsp; TECHNICAL STACK & DOMAIN FOCUS
+### 🛠️ Tech Stack & Expertise
 
-<table>
-  <tr>
-    <td width="55%" valign="top">
-      <strong>CORE TECHNOLOGIES</strong>
-      <br /><br />
-      <code>FRONTEND</code> &nbsp;→&nbsp; <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>TypeScript</code> <code>React</code> <code>Next.js</code> <code>Tailwind</code>
-      <br /><br />
-      <code>BACKEND</code> &nbsp;&nbsp;→&nbsp; <code>Node.js</code> <code>Express</code> <code>Python</code> <code>Django</code> <code>PHP</code> <code>Laravel</code>
-      <br /><br />
-      <code>DATABASE</code> →&nbsp; <code>MySQL</code> <code>PostgreSQL</code> <code>MongoDB</code> <code>Schema Design</code>
-      <br /><br />
-      <code>DEVOPS</code> &nbsp;&nbsp;&nbsp;→&nbsp; <code>Git</code> <code>GitHub</code> <code>Docker</code> <code>Postman</code> <code>Linux</code>
-    </td>
-    <td width="45%" valign="top">
-      <strong>ENGINEERING DISCIPLINE</strong>
-      <br /><br />
-      <code>[██████████]</code> &nbsp;<b>Full-Stack Web Systems</b><br />
-      <sub>End-to-end delivery from database schema to client state.</sub>
-      <br /><br />
-      <code>[█████████░]</code> &nbsp;<b>REST API & Auth Design</b><br />
-      <sub>Secure session handling, RBAC, and modular endpoints.</sub>
-      <br /><br />
-      <code>[██████████]</code> &nbsp;<b>Responsive UI Architecture</b><br />
-      <sub>Clean component systems built for speed and clarity.</sub>
-    </td>
-  </tr>
-</table>
+| Area | Technologies |
+| :--- | :--- |
+| **Frontend** | `HTML5` &nbsp; `CSS3` &nbsp; `JavaScript` &nbsp; `TypeScript` &nbsp; `React` &nbsp; `Next.js` &nbsp; `Tailwind CSS` |
+| **Backend** | `Node.js` &nbsp; `Express` &nbsp; `Python` &nbsp; `Django` &nbsp; `PHP` &nbsp; `REST APIs` |
+| **Database** | `MySQL` &nbsp; `PostgreSQL` &nbsp; `MongoDB` |
+| **Tools** | `Git` &nbsp; `GitHub` &nbsp; `Docker` &nbsp; `Postman` &nbsp; `VS Code` |
+
+---
+
+### 💡 What I Focus On
+
+* **End-to-End Web Development:** Taking ideas from database design and API architecture to clean, mobile-first interfaces.
+* **Practical Problem Solving:** Building real-world management systems, booking workflows, and interactive web tools.
+* **Clean & Maintainable Code:** Writing structured, readable code that is easy to scale and collaborate on.
 
 ---
 
 <div align="center">
 
-`──────────────────────────────────────────────────────────────────────────────`
-
-**FULL CASE STUDIES & LIVE PREVIEWS &nbsp;→&nbsp; [venishramani.github.io/Portfolio](https://github.io)**
+**See live demos & full case studies at [venishramani.github.io/Portfolio](https://venishramani.github.io/Portfolio/)**
 
 </div>
