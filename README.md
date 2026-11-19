@@ -13,29 +13,25 @@
 
 <div align="center">
 
-**Core Web Languages**  
-<img src="https://skillicons.dev" alt="Web Languages" />
+**Frontend Languages & Frameworks**  
+<img src="https://skillicons.dev" alt="Frontend Languages and Frameworks" />
 
 <br />
 
-**Frontend Frameworks & Styling**  
-<img src="https://skillicons.dev" alt="Frontend Frameworks" />
+**Backend Languages & Frameworks**  
+<img src="https://skillicons.dev" alt="Backend Languages and Frameworks" />
 
 <br />
 
-**Backend & Databases**  
-<img src="https://skillicons.dev" alt="Backend and Databases" />
-
-<br />
-
-**Tools & Deployment**  
-<img src="https://skillicons.dev" alt="Tools" />
+**Styling, Databases & Tools**  
+<img src="https://skillicons.dev" alt="Databases and Tools" />
 
 </div>
 
 <br />
 
-> **Core Focus:** Full-Stack Web Applications • Responsive Component Architecture • Multi-Stack RESTful APIs • Role-Based Auth & Relational Database Design
+> **Web Languages & Tech:** `HTML5` • `CSS3` • `JavaScript (ES6+)` • `TypeScript` • `Python` • `Java` • `C#` • `PHP` • `Go` • `SQL`  
+> **Core Focus:** Full-Stack Web Applications • Responsive Component Architecture • Multi-Stack RESTful APIs • Role-Based Auth & Database Design
 
 ---
 
@@ -51,17 +47,15 @@
 
 ---
 
-### `03` // ACTIVITY & CONNECT
+### `03` // CONNECT & ENDPOINTS
 
 <div align="center">
-  <br />
-  <a href="https://git.io">
-    <img src="https://demolab.com" alt="GitHub Streak" />
-  </a>
-  <br /><br />
-  <a href="https://github.io"><img src="https://shields.io" alt="Portfolio" /></a>
-  <a href="https://github.com"><img src="https://shields.io" alt="GitHub" /></a>
-  <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn" /></a>
-  <a href="mailto:ramanivenish2004@gmail.com"><img src="https://shields.io" alt="Email" /></a>
-  <br /><br />
+
+[**🌐 Live Portfolio ↗**](https://github.io) &nbsp;&nbsp;•&nbsp;&nbsp; [**🐙 GitHub ↗**](https://github.com) &nbsp;&nbsp;•&nbsp;&nbsp; [**💼 LinkedIn ↗**](https://linkedin.com) &nbsp;&nbsp;•&nbsp;&nbsp; [**✉️ ramanivenish2004@gmail.com ↗**](mailto:ramanivenish2004@gmail.com)
+
+<br />
+
+<sub>**VENISH RAMANI** &nbsp;•&nbsp; Full-Stack Web Developer &nbsp;•&nbsp; Built with precision</sub>
+
 </div>
+
