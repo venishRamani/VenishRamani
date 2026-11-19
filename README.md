@@ -1,10 +1,7 @@
-<div align="left">
-  <img src="https://demolab.com" alt="Venish Ramani" />
-</div>
+# Venish Ramani
+**Full-Stack Web Developer — Building Full-Stack Web Apps & APIs**
 
 Web developer focused on building responsive, user-friendly interfaces and reliable full-stack web applications.
-
-🌐 **Portfolio:** [venishramani.github.io/Portfolio](https://github.io)
 
 ---
 
@@ -13,10 +10,10 @@ Web developer focused on building responsive, user-friendly interfaces and relia
 <table>
   <tr>
     <td width="55%" valign="top">
-      <strong>FRONTEND</strong><br>
-      <img src="https://skillicons.dev" alt="Frontend" /><br><br>
-      <strong>BACKEND & FRAMEWORKS</strong><br>
-      <img src="https://skillicons.dev" alt="Backend" />
+      <strong>FRONTEND</strong><br><br>
+      <code>HTML5</code> &nbsp; <code>CSS3</code> &nbsp; <code>JavaScript</code> &nbsp; <code>TypeScript</code> &nbsp; <code>React</code> &nbsp; <code>Next.js</code><br><br>
+      <strong>BACKEND & FRAMEWORKS</strong><br><br>
+      <code>Node.js</code> &nbsp; <code>Python</code> &nbsp; <code>Java</code> &nbsp; <code>C#</code> &nbsp; <code>PHP</code> &nbsp; <code>Go</code> &nbsp; <code>Django</code> &nbsp; <code>Spring</code> &nbsp; <code>Git</code>
     </td>
     <td width="45%" valign="top">
       <strong>WEB DEV FOCUS</strong><br><br>
