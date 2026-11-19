@@ -12,10 +12,28 @@
 ### `01` // WEB LANGUAGES, FRAMEWORKS & STACK
 
 <div align="center">
-  <br />
-  <img src="https://skillicons.dev" alt="All Web Languages and Stack" />
-  <br /><br />
+
+**Core Web Languages**  
+<img src="https://skillicons.dev" alt="Web Languages" />
+
+<br />
+
+**Frontend Frameworks & Styling**  
+<img src="https://skillicons.dev" alt="Frontend Frameworks" />
+
+<br />
+
+**Backend & Databases**  
+<img src="https://skillicons.dev" alt="Backend and Databases" />
+
+<br />
+
+**Tools & Deployment**  
+<img src="https://skillicons.dev" alt="Tools" />
+
 </div>
+
+<br />
 
 > **Core Focus:** Full-Stack Web Applications • Responsive Component Architecture • Multi-Stack RESTful APIs • Role-Based Auth & Relational Database Design
 
