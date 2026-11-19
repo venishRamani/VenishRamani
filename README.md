@@ -3,13 +3,13 @@
 ✦ ━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━ ✦
 
 # ✨ Venish Ramani ✨
-### `Full-Stack Web Developer` &nbsp;•&nbsp; `UI Craftsman` &nbsp;•&nbsp; `Software Engineer`
+### `Full-Stack Web Developer` &nbsp;❖&nbsp; `UI Craftsman` &nbsp;❖&nbsp; `Software Engineer`
 
-*Designing modern, responsive web interfaces and scalable full-stack applications.*
+*Crafting fast, responsive interfaces and reliable full-stack web applications.*
 
 <br />
 
-[**🌐 Explore Live Portfolio ↗**](https://github.io) &nbsp;&nbsp;❖&nbsp;&nbsp; [**📂 All Repositories ↗**](https://github.com) &nbsp;&nbsp;❖&nbsp;&nbsp; `🟢 Open to Opportunities`
+[**🌐 Visit Live Portfolio ↗**](https://github.io) &nbsp;&nbsp;•&nbsp;&nbsp; [**📂 Explore Repositories ↗**](https://github.com) &nbsp;&nbsp;•&nbsp;&nbsp; `🟢 Open to Opportunities`
 
 ✦ ━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━ ✦
 
@@ -17,39 +17,60 @@
 
 <br />
 
-### 🎨 Tech Stack & Developer Arsenal
+### 🎨 Decorated Tech Stack & Arsenal
 
-<div align="center">
-
-**Frontend & Interface Craft**
-<br /><br />
-<img src="https://githubusercontent.com" width="44" height="44" alt="HTML5" title="HTML5" /> &nbsp;&nbsp;
-<img src="https://githubusercontent.com" width="44" height="44" alt="CSS3" title="CSS3" /> &nbsp;&nbsp;
-<img src="https://githubusercontent.com" width="44" height="44" alt="JavaScript" title="JavaScript" /> &nbsp;&nbsp;
-<img src="https://githubusercontent.com" width="44" height="44" alt="TypeScript" title="TypeScript" /> &nbsp;&nbsp;
-<img src="https://githubusercontent.com" width="44" height="44" alt="React" title="React" /> &nbsp;&nbsp;
-<img src="https://githubusercontent.com" width="44" height="44" alt="Next.js" title="Next.js" /> &nbsp;&nbsp;
-<img src="https://githubusercontent.com" width="44" height="44" alt="Tailwind CSS" title="Tailwind CSS" /> &nbsp;&nbsp;
-<img src="https://githubusercontent.com" width="44" height="44" alt="Bootstrap" title="Bootstrap" />
-
-<br /><br />
-
-**Backend, Databases & Workflow**
-<br /><br />
-<img src="https://githubusercontent.com" width="44" height="44" alt="Node.js" title="Node.js" /> &nbsp;&nbsp;
-<img src="https://githubusercontent.com" width="44" height="44" alt="Express" title="Express" /> &nbsp;&nbsp;
-<img src="https://githubusercontent.com" width="44" height="44" alt="Python" title="Python" /> &nbsp;&nbsp;
-<img src="https://githubusercontent.com" width="44" height="44" alt="PHP" title="PHP" /> &nbsp;&nbsp;
-<img src="https://githubusercontent.com" width="44" height="44" alt="MySQL" title="MySQL" /> &nbsp;&nbsp;
-<img src="https://githubusercontent.com" width="44" height="44" alt="MongoDB" title="MongoDB" /> &nbsp;&nbsp;
-<img src="https://githubusercontent.com" width="44" height="44" alt="Git" title="Git" /> &nbsp;&nbsp;
-<img src="https://githubusercontent.com" width="44" height="44" alt="VS Code" title="VS Code" />
-
-</div>
+<table>
+  <tr>
+    <th align="left" width="26%">Category</th>
+    <th align="left" width="74%">Core Technologies & Tools</th>
+  </tr>
+  <tr>
+    <td><b>🎨 Frontend & UI</b></td>
+    <td>
+      <code>🟧 HTML5</code> &nbsp;
+      <code>🟦 CSS3</code> &nbsp;
+      <code>🟨 JavaScript</code> &nbsp;
+      <code>🔷 TypeScript</code> &nbsp;
+      <code>⚛️ React.js</code> &nbsp;
+      <code>▲ Next.js</code> &nbsp;
+      <code>🌊 Tailwind CSS</code> &nbsp;
+      <code>🅱️ Bootstrap</code>
+    </td>
+  </tr>
+  <tr>
+    <td><b>⚙️ Backend & APIs</b></td>
+    <td>
+      <code>🟩 Node.js</code> &nbsp;
+      <code>🚂 Express.js</code> &nbsp;
+      <code>🐍 Python</code> &nbsp;
+      <code>🎸 Django</code> &nbsp;
+      <code>🐘 PHP</code> &nbsp;
+      <code>🔌 REST APIs</code> &nbsp;
+      <code>🔐 Auth & RBAC</code>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🗄️ Databases</b></td>
+    <td>
+      <code>🐬 MySQL</code> &nbsp;
+      <code>🐘 PostgreSQL</code> &nbsp;
+      <code>🍃 MongoDB</code> &nbsp;
+      <code>📐 Schema Design</code>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🛠️ DevOps & Tools</b></td>
+    <td>
+      <code>🌿 Git</code> &nbsp;
+      <code>🐙 GitHub</code> &nbsp;
+      <code>🐳 Docker</code> &nbsp;
+      <code>🚀 Postman</code> &nbsp;
+      <code>💻 VS Code</code>
+    </td>
+  </tr>
+</table>
 
 <br />
-
----
 
 ### 🚀 Featured Projects Showcase
 
@@ -86,9 +107,7 @@
 
 <br />
 
----
-
-### 💎 What I Bring to Every Build
+### 💎 Engineering Highlights
 
 <table>
   <tr>
