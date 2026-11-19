@@ -58,7 +58,7 @@ const developer = {
 \$ open https://github.io
 ```
 
-🌐 **Live Portfolio :- ** [ https://venishramani.github.io/Portfolio ↗ ](https://github.io)** — Explore live project demos, UI builds, and full case studies.
+🌐 **Live Portfolio :- [ https://venishramani.github.io/Portfolio ↗ ](https://github.io)** — Explore live project demos, UI builds, and full case studies.
 
 ---
 
