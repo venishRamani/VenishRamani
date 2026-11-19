@@ -1,7 +1,6 @@
 <!-- Asymmetric Editorial Split Layout -->
 <table>
   <tr>
-    
     <td width="36%" valign="top">
       <br />
       <h1>Venish<br />Ramani</h1>
