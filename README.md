@@ -1,70 +1,130 @@
-<!-- Asymmetric Editorial Split Layout -->
+<div align="center">
+
+# `venish.dev` &nbsp;—&nbsp; Venish Ramani
+
+**Crafting digital products, full-stack web systems & interactive interfaces.**
+
+<br />
+
+<kbd><a href="https://github.io">&nbsp; 🚀 <b>Launch Portfolio ↗</b> &nbsp;</a></kbd> &nbsp;&nbsp;
+<kbd><a href="https://github.com">&nbsp; ⚡ <b>Explore Codebase ↗</b> &nbsp;</a></kbd> &nbsp;&nbsp;
+<kbd>&nbsp; 🟢 <b>Building & Open to Collabs</b> &nbsp;</kbd>
+
+</div>
+
+<br />
+
+> [!TIP]
+> **Currently building:** Scalable full-stack web applications with clean architecture, intuitive user flows, and modern responsive design. See live deployments at **[venishramani.github.io/Portfolio](https://github.io)**.
+
+---
+
+### ✦ Product Lab & Live Shipments
+
 <table>
   <tr>
-    <td width="36%" valign="top">
-      <br />
-      <h1>Venish<br />Ramani</h1>
-      <p><b>Full-Stack Web Developer</b></p>
-      <p>Crafting fast, intuitive interfaces and reliable end-to-end web systems.</p>
-      <br />
-      <p>🟢 <b>Open to Opportunities</b></p>
-      <br />
+    <td width="50%" valign="top">
+      <h3>🏕️ CampIndia</h3>
+      <p><b>Outdoor Discovery & Trip Booking Engine</b></p>
+      <p>Connecting explorers with curated camping destinations, transparent packages, and seamless booking workflows across India.</p>
       <p>
-        <kbd><a href="https://github.io">&nbsp; 🌐 <b>Portfolio ↗</b> &nbsp;</a></kbd>
+        <kbd><a href="https://github.io">&nbsp; 🌐 Live Demo ↗ &nbsp;</a></kbd> &nbsp;
+        <kbd><a href="https://github.com">&nbsp; 💻 Repo ↗ &nbsp;</a></kbd>
       </p>
-      <p>
-        <kbd><a href="https://github.com">&nbsp; 📂 <b>Repositories ↗</b> &nbsp;</a></kbd>
-      </p>
-      <br />
-      <h4>CONNECT</h4>
-      <p>
-        ✉️ <a href="mailto:your.email@example.com">Email</a><br />
-        🐙 <a href="https://github.com">GitHub</a><br />
-        💼 <a href="https://linkedin.com">LinkedIn</a>
-      </p>
-      <br />
+      <details>
+        <summary><code>🔍 Inspect Architecture & Stack</code></summary>
+        <br />
+        • <b>Focus:</b> Full-Stack Web App, Booking Flow, Responsive UI<br />
+        • <b>Core:</b> End-to-end destination search, package filtering & user reservations
+      </details>
     </td>
-    <!-- Right Column: Featured Work & Stack -->
-    <td width="64%" valign="top">
-      <br />
-      <h3>SELECTED WORK</h3>
-      <hr />
+    <td width="50%" valign="top">
+      <h3>🏢 Apartment Management</h3>
+      <p><b>Smart Residential Operations Suite</b></p>
+      <p>Centralizing flat directories, resident profiles, maintenance tickets, visitor logs, and automated society billing in one hub.</p>
       <p>
-        <b>01. <a href="https://github.com/CampIndia">CampIndia</a></b> &nbsp;—&nbsp; <a href="https://github.io">Live Demo ↗</a><br />
-        Outdoor discovery and trip booking web platform connecting travelers with curated camping experiences across India.<br />
-        <code>Full-Stack</code> <code>Booking System</code> <code>Web App</code>
+        <kbd><a href="https://github.io">&nbsp; 🌐 Live Demo ↗ &nbsp;</a></kbd> &nbsp;
+        <kbd><a href="https://github.com">&nbsp; 💻 Repo ↗ &nbsp;</a></kbd>
       </p>
-      <br />
+      <details>
+        <summary><code>🔍 Inspect Architecture & Stack</code></summary>
+        <br />
+        • <b>Focus:</b> Role-Based Access, Relational DB, CRUD Operations<br />
+        • <b>Core:</b> Admin & resident dashboards for daily society workflows
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✈️ Tourism Website</h3>
+      <p><b>Interactive Travel & Destination Portal</b></p>
+      <p>Modern travel showcase enabling explorers to browse destinations, compare curated itineraries, and plan hassle-free getaways.</p>
       <p>
-        <b>02. <a href="https://github.com/Apartment-management">Apartment Management</a></b> &nbsp;—&nbsp; <a href="https://github.io">Live Demo ↗</a><br />
-        Residential operations platform centralizing flat directories, resident profiles, maintenance requests, and automated billing.<br />
-        <code>Role-Based</code> <code>Database</code> <code>CRUD Ops</code>
+        <kbd><a href="https://github.io">&nbsp; 🌐 Live Demo ↗ &nbsp;</a></kbd> &nbsp;
+        <kbd><a href="https://github.com">&nbsp; 💻 Repo ↗ &nbsp;</a></kbd>
       </p>
-      <br />
+      <details>
+        <summary><code>🔍 Inspect Architecture & Stack</code></summary>
+        <br />
+        • <b>Focus:</b> Modern UI/UX, Mobile-First Layout, Travel Discovery<br />
+        • <b>Core:</b> High-speed visual browsing and itinerary exploration
+      </details>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ Frontend Projects</h3>
+      <p><b>10+ Interactive Web Micro-Apps</b></p>
+      <p>A creative playground of standalone UI builds including a Contact Manager, Todo App, Password Generator, and animated components.</p>
       <p>
-        <b>03. <a href="https://github.com/Tourism-website">Tourism Website</a></b> &nbsp;—&nbsp; <a href="https://github.io">Live Demo ↗</a><br />
-        Responsive travel portal enabling explorers to browse destinations, inspect curated itineraries, and plan hassle-free getaways.<br />
-        <code>Modern UI</code> <code>Responsive</code> <code>Travel</code>
+        <kbd><a href="https://github.io">&nbsp; 🌐 Live Demo ↗ &nbsp;</a></kbd> &nbsp;
+        <kbd><a href="https://github.com">&nbsp; 💻 Repo ↗ &nbsp;</a></kbd>
       </p>
-      <br />
-      <p>
-        <b>04. <a href="https://github.com/Frontend-Projects">Frontend Projects</a></b> &nbsp;—&nbsp; <a href="https://github.io">Live Demo ↗</a><br />
-        Collection of 10+ standalone interactive web micro-apps including a Contact Manager, Todo App, and Password Generator.<br />
-        <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code>
-      </p>
-      <br />
-      <h3>TECHNICAL STACK</h3>
-      <hr />
-      <p>
-        <b>Frontend:</b> &nbsp; <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>TypeScript</code> <code>React.js</code> <code>Next.js</code> <code>Tailwind CSS</code>
-      </p>
-      <p>
-        <b>Backend:</b> &nbsp; <code>Node.js</code> <code>Express.js</code> <code>Python</code> <code>Django</code> <code>PHP</code> <code>REST APIs</code>
-      </p>
-      <p>
-        <b>Data & Tools:</b> &nbsp; <code>MySQL</code> <code>PostgreSQL</code> <code>MongoDB</code> <code>Git</code> <code>GitHub</code> <code>Docker</code>
-      </p>
-      <br />
+      <details>
+        <summary><code>🔍 Inspect Architecture & Stack</code></summary>
+        <br />
+        • <b>Focus:</b> HTML5, CSS3, Vanilla JavaScript, DOM Craft<br />
+        • <b>Core:</b> Interactive state logic and micro-animations without bloat
+      </details>
     </td>
   </tr>
 </table>
+
+---
+
+### ✦ Interactive Toolkit
+
+<details open>
+  <summary><b>🎨 Frontend & Interface Engineering</b></summary>
+  <br />
+  <code>HTML5</code> &nbsp; <code>CSS3</code> &nbsp; <code>JavaScript (ES6+)</code> &nbsp; <code>TypeScript</code> &nbsp; <code>React.js</code> &nbsp; <code>Next.js</code> &nbsp; <code>Tailwind CSS</code> &nbsp; <code>Bootstrap</code>
+</details>
+
+<br />
+
+<details open>
+  <summary><b>⚙️ Backend, APIs & Databases</b></summary>
+  <br />
+  <code>Node.js</code> &nbsp; <code>Express.js</code> &nbsp; <code>Python</code> &nbsp; <code>Django</code> &nbsp; <code>PHP</code> &nbsp; <code>RESTful APIs</code> &nbsp; <code>MySQL</code> &nbsp; <code>PostgreSQL</code> &nbsp; <code>MongoDB</code>
+</details>
+
+<br />
+
+<details>
+  <summary><b>🛠️ DevOps, Workflow & Deployment (Click to expand)</b></summary>
+  <br />
+  <code>Git</code> &nbsp; <code>GitHub</code> &nbsp; <code>Docker</code> &nbsp; <code>Postman</code> &nbsp; <code>VS Code</code> &nbsp; <code>GitHub Pages</code>
+</details>
+
+---
+
+<div align="center">
+
+### ✦ Let's Build Something Together
+
+<br />
+
+<kbd><a href="mailto:your.email@example.com">&nbsp; ✉️ <b>Email</b> &nbsp;</a></kbd> &nbsp;&nbsp;
+<kbd><a href="https://github.com">&nbsp; 🐙 <b>GitHub</b> &nbsp;</a></kbd> &nbsp;&nbsp;
+<kbd><a href="https://linkedin.com">&nbsp; 💼 <b>LinkedIn</b> &nbsp;</a></kbd> &nbsp;&nbsp;
+<kbd><a href="https://github.io">&nbsp; 🌐 <b>Portfolio</b> &nbsp;</a></kbd>
+
+</div>
