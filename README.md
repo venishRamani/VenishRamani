@@ -1,31 +1,32 @@
 <div align="center">
 
-✦ ━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━ ✦
+```text
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃  ⚡ VENISH RAMANI   //   FULL-STACK WEB DEVELOPER & UI ARCHITECT             ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
 
-# ✨ Venish Ramani ✨
-### `Full-Stack Web Developer` &nbsp;❖&nbsp; `UI Craftsman` &nbsp;❖&nbsp; `Software Engineer`
-
-*Crafting fast, responsive interfaces and reliable full-stack web applications.*
+**Engineering high-performance web applications, scalable APIs, and precision user interfaces.**
 
 <br />
 
-[**🌐 Visit Live Portfolio ↗**](https://github.io) &nbsp;&nbsp;•&nbsp;&nbsp; [**📂 Explore Repositories ↗**](https://github.com) &nbsp;&nbsp;•&nbsp;&nbsp; `🟢 Open to Opportunities`
-
-✦ ━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━ ✦
+<kbd>[&nbsp; 🌐 **LIVE PORTFOLIO ↗** &nbsp;](https://github.io)</kbd> &nbsp;&nbsp;
+<kbd>[&nbsp; 📂 **REPOSITORIES ↗** &nbsp;](https://github.com)</kbd> &nbsp;&nbsp;
+<kbd>&nbsp; 🟢 **OPEN TO WORK** &nbsp;</kbd>
 
 </div>
 
-<br />
+---
 
-### 🎨 Decorated Tech Stack & Arsenal
+### `01` &nbsp; **TECH STACK & DEVELOPER ARSENAL**
 
 <table>
   <tr>
-    <th align="left" width="26%">Category</th>
-    <th align="left" width="74%">Core Technologies & Tools</th>
+    <th align="left" width="24%">DOMAIN</th>
+    <th align="left" width="76%">CORE TECHNOLOGIES & FRAMEWORKS</th>
   </tr>
   <tr>
-    <td><b>🎨 Frontend & UI</b></td>
+    <td><b>🎨 FRONTEND</b></td>
     <td>
       <code>🟧 HTML5</code> &nbsp;
       <code>🟦 CSS3</code> &nbsp;
@@ -38,7 +39,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>⚙️ Backend & APIs</b></td>
+    <td><b>⚙️ BACKEND</b></td>
     <td>
       <code>🟩 Node.js</code> &nbsp;
       <code>🚂 Express.js</code> &nbsp;
@@ -50,7 +51,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>🗄️ Databases</b></td>
+    <td><b>🗄️ DATABASE</b></td>
     <td>
       <code>🐬 MySQL</code> &nbsp;
       <code>🐘 PostgreSQL</code> &nbsp;
@@ -59,7 +60,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>🛠️ DevOps & Tools</b></td>
+    <td><b>🛠️ DEVOPS & TOOLS</b></td>
     <td>
       <code>🌿 Git</code> &nbsp;
       <code>🐙 GitHub</code> &nbsp;
@@ -70,86 +71,100 @@
   </tr>
 </table>
 
-<br />
+---
 
-### 🚀 Featured Projects & Live Demos
+### `02` &nbsp; **FEATURED PROJECTS & LIVE DEMOS**
 
 <table>
   <tr>
     <td width="50%" valign="top">
+      <code>PROJECT // 01</code>
       <h3>🏕️ <a href="https://github.com">CampIndia</a></h3>
       <p><b>Outdoor Discovery & Trip Booking Platform</b></p>
       <p>Full-stack web application helping travelers explore curated camping destinations, compare packages, and book outdoor adventures across India.</p>
       <p>
-        <a href="https://github.io"><b>🌐 Live Demo ↗</b></a> &nbsp;&nbsp;|&nbsp;&nbsp;
-        <a href="https://github.com"><b>💻 Source Code ↗</b></a>
+        <kbd>[&nbsp; 🌐 Live Demo ↗ &nbsp;](https://github.io)</kbd> &nbsp;&nbsp;
+        <kbd>[&nbsp; 💻 Source Code ↗ &nbsp;](https://github.com)</kbd>
       </p>
       <code>✨ Full-Stack</code> &nbsp; <code>🗺️ Booking Engine</code> &nbsp; <code>💻 Web App</code>
     </td>
     <td width="50%" valign="top">
+      <code>PROJECT // 02</code>
       <h3>🏢 <a href="https://github.com">Apartment Management</a></h3>
       <p><b>Smart Residential Operations Suite</b></p>
       <p>Centralized property management system streamlining flat directories, resident profiles, maintenance tickets, visitor logs, and automated billing.</p>
       <p>
-        <a href="https://github.io"><b>🌐 Live Demo ↗</b></a> &nbsp;&nbsp;|&nbsp;&nbsp;
-        <a href="https://github.com"><b>💻 Source Code ↗</b></a>
+        <kbd>[&nbsp; 🌐 Live Demo ↗ &nbsp;](https://github.io)</kbd> &nbsp;&nbsp;
+        <kbd>[&nbsp; 💻 Source Code ↗ &nbsp;](https://github.com)</kbd>
       </p>
       <code>🔐 Role-Based</code> &nbsp; <code>🗄️ Database</code> &nbsp; <code>⚙️ CRUD Ops</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <code>PROJECT // 03</code>
       <h3>✈️ <a href="https://github.com">Tourism Website</a></h3>
       <p><b>Interactive Travel & Destination Portal</b></p>
       <p>Modern responsive travel showcase enabling explorers to browse destinations, inspect curated itineraries, and plan hassle-free getaways.</p>
       <p>
-        <a href="https://github.io"><b>🌐 Live Demo ↗</b></a> &nbsp;&nbsp;|&nbsp;&nbsp;
-        <a href="https://github.com"><b>💻 Source Code ↗</b></a>
+        <kbd>[&nbsp; 🌐 Live Demo ↗ &nbsp;](https://github.io)</kbd> &nbsp;&nbsp;
+        <kbd>[&nbsp; 💻 Source Code ↗ &nbsp;](https://github.com)</kbd>
       </p>
       <code>🎨 Modern UI</code> &nbsp; <code>📱 Responsive</code> &nbsp; <code>🌍 Travel</code>
     </td>
     <td width="50%" valign="top">
+      <code>PROJECT // 04</code>
       <h3>⚡ <a href="https://github.com">Frontend Projects</a></h3>
       <p><b>10+ Interactive Web Micro-Apps</b></p>
       <p>Curated collection of standalone UI builds including a Contact Manager, Todo App, Password Generator, and animated interface components.</p>
       <p>
-        <a href="https://github.io"><b>🌐 Live Demo ↗</b></a> &nbsp;&nbsp;|&nbsp;&nbsp;
-        <a href="https://github.com"><b>💻 Source Code ↗</b></a>
+        <kbd>[&nbsp; 🌐 Live Demo ↗ &nbsp;](https://github.io)</kbd> &nbsp;&nbsp;
+        <kbd>[&nbsp; 💻 Source Code ↗ &nbsp;](https://github.com)</kbd>
       </p>
       <code>🧱 HTML5</code> &nbsp; <code>🎭 CSS3</code> &nbsp; <code>⚡ JavaScript</code>
     </td>
   </tr>
 </table>
 
-<br />
+---
 
-### 💎 Engineering Highlights
+### `03` &nbsp; **ENGINEERING HIGHLIGHTS**
 
 <table>
   <tr>
     <td width="33%" valign="top">
+      <code>PILLAR // 01</code>
       <h3>🎯 End-to-End Architecture</h3>
       <p>From normalized relational databases and REST APIs to pixel-accurate responsive interfaces.</p>
     </td>
     <td width="33%" valign="top">
+      <code>PILLAR // 02</code>
       <h3>✨ Clean & Modular Code</h3>
       <p>Structured, readable codebases built for long-term scalability and seamless collaboration.</p>
     </td>
     <td width="33%" valign="top">
+      <code>PILLAR // 03</code>
       <h3>⚡ User-First Performance</h3>
       <p>Fast load times, smooth interactive states, and mobile-first layouts across every screen.</p>
     </td>
   </tr>
 </table>
 
-<br />
+---
 
 <div align="center">
 
-✦ ━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━ ✦
+### `04` &nbsp; **CONNECT & COLLABORATE**
 
-**🌟 Explore Live Demos & Full Case Studies → [venishramani.github.io/Portfolio](https://github.io) 🌟**
+<br />
 
-✦ ━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━ ✦
+<kbd>[&nbsp; ✉️ **EMAIL ME ↗** &nbsp;](mailto:your.email@example.com)</kbd> &nbsp;&nbsp;&nbsp;
+<kbd>[&nbsp; 🐙 **GITHUB ↗** &nbsp;](https://github.com)</kbd> &nbsp;&nbsp;&nbsp;
+<kbd>[&nbsp; 💼 **LINKEDIN ↗** &nbsp;](https://linkedin.com)</kbd> &nbsp;&nbsp;&nbsp;
+<kbd>[&nbsp; 🌐 **PORTFOLIO ↗** &nbsp;](https://github.io)</kbd>
+
+<br /><br />
+
+<sub>**VENISH RAMANI** &nbsp;•&nbsp; Full-Stack Web Developer &nbsp;•&nbsp; Built with precision</sub>
 
 </div>
