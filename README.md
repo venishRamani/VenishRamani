@@ -72,34 +72,50 @@
 
 <br />
 
-### 🚀 Featured Projects Showcase
+### 🚀 Featured Projects & Live Demos
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏕️ <a href="https://github.com">CampIndia ↗</a></h3>
+      <h3>🏕️ <a href="https://github.com">CampIndia</a></h3>
       <p><b>Outdoor Discovery & Trip Booking Platform</b></p>
       <p>Full-stack web application helping travelers explore curated camping destinations, compare packages, and book outdoor adventures across India.</p>
+      <p>
+        <a href="https://github.io"><b>🌐 Live Demo ↗</b></a> &nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="https://github.com"><b>💻 Source Code ↗</b></a>
+      </p>
       <code>✨ Full-Stack</code> &nbsp; <code>🗺️ Booking Engine</code> &nbsp; <code>💻 Web App</code>
     </td>
     <td width="50%" valign="top">
-      <h3>🏢 <a href="https://github.com">Apartment Management ↗</a></h3>
+      <h3>🏢 <a href="https://github.com">Apartment Management</a></h3>
       <p><b>Smart Residential Operations Suite</b></p>
       <p>Centralized property management system streamlining flat directories, resident profiles, maintenance tickets, visitor logs, and automated billing.</p>
+      <p>
+        <a href="https://github.io"><b>🌐 Live Demo ↗</b></a> &nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="https://github.com"><b>💻 Source Code ↗</b></a>
+      </p>
       <code>🔐 Role-Based</code> &nbsp; <code>🗄️ Database</code> &nbsp; <code>⚙️ CRUD Ops</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>✈️ <a href="https://github.com">Tourism Website ↗</a></h3>
+      <h3>✈️ <a href="https://github.com">Tourism Website</a></h3>
       <p><b>Interactive Travel & Destination Portal</b></p>
       <p>Modern responsive travel showcase enabling explorers to browse destinations, inspect curated itineraries, and plan hassle-free getaways.</p>
+      <p>
+        <a href="https://github.io"><b>🌐 Live Demo ↗</b></a> &nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="https://github.com"><b>💻 Source Code ↗</b></a>
+      </p>
       <code>🎨 Modern UI</code> &nbsp; <code>📱 Responsive</code> &nbsp; <code>🌍 Travel</code>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com">Frontend Projects ↗</a></h3>
+      <h3>⚡ <a href="https://github.com">Frontend Projects</a></h3>
       <p><b>10+ Interactive Web Micro-Apps</b></p>
       <p>Curated collection of standalone UI builds including a Contact Manager, Todo App, Password Generator, and animated interface components.</p>
+      <p>
+        <a href="https://github.io"><b>🌐 Live Demo ↗</b></a> &nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="https://github.com"><b>💻 Source Code ↗</b></a>
+      </p>
       <code>🧱 HTML5</code> &nbsp; <code>🎭 CSS3</code> &nbsp; <code>⚡ JavaScript</code>
     </td>
   </tr>
@@ -111,17 +127,17 @@
 
 <table>
   <tr>
-    <td width="33%" align="center" valign="top">
-      <h4>🎯 End-to-End Architecture</h4>
-      <sub>From normalized relational databases and REST APIs to pixel-accurate responsive interfaces.</sub>
+    <td width="33%" valign="top">
+      <h3>🎯 End-to-End Architecture</h3>
+      <p>From normalized relational databases and REST APIs to pixel-accurate responsive interfaces.</p>
     </td>
-    <td width="33%" align="center" valign="top">
-      <h4>✨ Clean & Modular Code</h4>
-      <sub>Structured, readable codebases built for long-term scalability and seamless collaboration.</sub>
+    <td width="33%" valign="top">
+      <h3>✨ Clean & Modular Code</h3>
+      <p>Structured, readable codebases built for long-term scalability and seamless collaboration.</p>
     </td>
-    <td width="33%" align="center" valign="top">
-      <h4>⚡ User-First Performance</h4>
-      <sub>Fast load times, smooth interactive states, and mobile-first layouts across every screen.</sub>
+    <td width="33%" valign="top">
+      <h3>⚡ User-First Performance</h3>
+      <p>Fast load times, smooth interactive states, and mobile-first layouts across every screen.</p>
     </td>
   </tr>
 </table>
