@@ -58,10 +58,10 @@ const developer = {
 ---
 
 <p align="center">
-  <a href="https://github.com"><img src="https://shields.io" height="40" alt="GitHub" /></a>
+  <a href="https://github.com"><img src="https://shields.io" alt="GitHub" /></a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com"><img src="https://shields.io" height="40" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn" /></a>
   &nbsp;&nbsp;
-  <a href="mailto:ramanivenish2004@gmail.com"><img src="https://shields.io" height="40" alt="Email" /></a>
+  <a href="mailto:ramanivenish2004@gmail.com"><img src="https://shields.io" alt="Email" /></a>
 </p>
 
