@@ -33,19 +33,19 @@ Web developer focused on building responsive, user-friendly interfaces and relia
 
 ### `02` // SELECTED SYSTEMS
 
-| ID | System | Domain | What It Solves |
-| :--- | :--- | :--- | :--- |
-| **`01`** | **[Hostel-Management](https://github.com)** | `Facility Ops` | Automates student room allocation, resident profiles, and fee tracking. |
-| **`02`** | **[Frontend-Projects](https://github.com)** | `Frontend-Projects` | All types of Frontend-Projects. |
-| **`03`** | **[Apartment-management](https://github.com)** | `Residential` | Centralizes flat directories, maintenance tickets, visitor entries, and billing. |
-| **`04`** | **[Tourism-website](https://github.com)** | `Tourism` | Helps travelers discover destinations, compare trips, and book travel easily. |
-| **`05`** | **[Camping site](https://github.com)** | `Camping` | An outdoor area where people pitch tents or park campers to stay overnight in nature. |
+| ID | System | Domain | What It Solves | Live Demo |
+| :--- | :--- | :--- | :--- | :--- |
+| **`01`** | **[Hostel-Management](https://github.com)** | `Facility Ops` | Automates student room allocation, resident profiles, and fee tracking. | [Live Demo ↗](https://github.io) |
+| **`02`** | **[Frontend-Projects](https://github.com)** | `Frontend-Projects` | All types of Frontend-Projects. | [Live Demo ↗](https://github.io) |
+| **`03`** | **[Apartment-management](https://github.com)** | `Residential` | Centralizes flat directories, maintenance tickets, visitor entries, and billing. | [Live Demo ↗](https://github.io) |
+| **`04`** | **[Tourism-website](https://github.com)** | `Tourism` | Helps travelers discover destinations, compare trips, and book travel easily. | [Live Demo ↗](https://github.io) |
+| **`05`** | **[Camping site](https://github.com)** | `Camping` | An outdoor area where people pitch tents or park campers to stay overnight in nature. | [Live Demo ↗](https://github.io) |
 
 ---
 
 <p>
-  <a href="https://github.io"><img src="https://shields.io🌐_Portfolio-0D1117?style=for-the-badge" alt="Portfolio" /></a>
-  <a href="https://github.com"><img src="https://shields.ioGitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com"><img src="https://shields.ioLinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:ramanivenish2004@gmail.com"><img src="https://shields.ioEmail-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.io"><img src="https://shields.io" alt="Portfolio" /></a>
+  <a href="https://github.com"><img src="https://shields.io" alt="GitHub" /></a>
+  <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn" /></a>
+  <a href="mailto:ramanivenish2004@gmail.com"><img src="https://shields.io" alt="Email" /></a>
 </p>
