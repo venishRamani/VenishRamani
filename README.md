@@ -1,4 +1,6 @@
-# `>_` Venish Ramani — Full-Stack Web Developer
+<div align="left">
+  <img src="https://demolab.com" alt="Venish Ramani" />
+</div>
 
 ```ts
 const developer = {
@@ -58,7 +60,7 @@ const developer = {
 ---
 
 <p align="center">
-  <kbd><a href="https://github.com">&nbsp; 🐙 <b>GITHUB</b> &nbsp;</a></kbd> &nbsp;&nbsp;
-  <kbd><a href="https://linkedin.com">&nbsp; 💼 <b>LINKEDIN</b> &nbsp;</a></kbd> &nbsp;&nbsp;
-  <kbd><a href="mailto:ramanivenish2004@gmail.com">&nbsp; ✉️ <b>EMAIL</b> &nbsp;</a></kbd>
+  <a href="https://github.com"><img src="https://shields.io" alt="GitHub" /></a>
+  <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn" /></a>
+  <a href="mailto:ramanivenish2004@gmail.com"><img src="https://shields.io" alt="Email" /></a>
 </p>
