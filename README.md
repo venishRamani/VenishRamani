@@ -1,54 +1,64 @@
-<div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=E6EDF3&vCenter=true&width=500&height=35&lines=Venish+Ramani+%E2%80%94+Web+Developer;Building+Full-Stack+Web+Apps+%26+APIs" alt="Venish Ramani" />
+<!-- Dynamic Wave Header -->
+<div align="center">
+  <img src="https://vercel.app" width="100%" />
 </div>
 
-Web developer focused on building responsive, user-friendly interfaces and reliable full-stack web applications.
+<!-- Portfolio & Quick Links -->
+<div align="center">
+  <a href="https://venishramani.github.io/Portfolio/" target="_blank">
+    <img src="https://shields.io🌐_VISIT_MY_PORTFOLIO-1F6FEB?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com" target="_blank">
+    <img src="https://shields.io📂_ALL_REPOSITORIES-238636?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  </a>
+</div>
+
+<br />
+
+### 🧑‍💻 About Me
+```yaml
+name: "Venish Ramani"
+role: "Full-Stack Web Developer"
+portfolio: "https://venishramani.github.io/Portfolio/"
+github: "https://github.com/venishRamani"
+focus: "Building responsive web applications, management systems & interactive UIs"
+status: "Open to collaborations and developer opportunities"
+```
 
 ---
 
-### `01` // STACK & RUNTIME
+### 🚀 Featured Projects
+Check out my full case studies and live previews on my **[Portfolio](https://venishramani.github.io/Portfolio/)**:
 
-<table>
-  <tr>
-    <td width="55%" valign="top">
-      <strong>FRONTEND</strong><br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark" alt="Frontend" /><br><br>
-      <strong>BACKEND & FRAMEWORKS</strong><br>
-      <img src="https://skillicons.dev/icons?i=nodejs,python,java,cs,php,go,django,spring,git&theme=dark" alt="Backend" />
-    </td>
-    <td width="45%" valign="top">
-      <strong>WEB DEV FOCUS</strong><br><br>
-      <code>▸</code> Full-Stack Web Applications<br>
-      <code>▸</code> Responsive UI & Component Architecture<br>
-      <code>▸</code> Multi-Stack RESTful APIs<br>
-      <code>▸</code> Authentication & Database Design<br>
-      <code>▸</code> Clean, Maintainable Web Code
-    </td>
-  </tr>
-</table>
-
----
-
-### `02` // SELECTED SYSTEMS
-
-| ID | System | Domain | What It Solves |
+| Project | Description | Focus / Stack | Repository |
 | :--- | :--- | :--- | :--- |
-| **`01`** | **[Hostel-Management](https://github.com/VenishRamani/Hostel-Management)** | `Facility Ops` | Automates student room allocation, resident profiles, and fee tracking. |
-| **`02`** | **[Frontend-Projects](https://github.com/venishRamani/Frontend-Projects)** | `Frontend-Projects` | All types of Frontend-Projects. |
-| **`03`** | **[Apartment-management](https://github.com/VenishRamani/Apartment-management)** | `Residential` | Centralizes flat directories, maintenance tickets, visitor entries, and billing. |
-| **`04`** | **[Tourism-website](https://github.com/VenishRamani/Tourism-website)** | `Tourism` | Helps travelers discover destinations, compare trips, and book travel easily. |
-| **`05`** | **[Camping site](https://github.com/VenishRamani/CampIndia)** | `Camping` | An outdoor area where people pitch tents or park campers to stay overnight in nature. |
+| **[CampIndia](https://github.com/venishRamani/CampIndia)** | A camping discovery and booking web application showcasing outdoor destinations across India. | `Full-Stack` `Web App` | [View Code](https://github.com/venishRamani/CampIndia) |
+| **[Apartment Management](https://github.com/venishRamani/Apartment-management)** | A residential management platform designed to streamline tenant records, notices, and society operations. | `Management System` `Web` | [View Code](https://github.com/venishRamani/Apartment-management) |
+| **[Tourism Website](https://github.com/venishRamani/Tourism-website)** | An interactive travel and destination showcase website featuring responsive layouts and tour highlights. | `Frontend` `UI/UX` | [View Code](https://github.com/venishRamani/Tourism-website) |
+| **[Frontend Projects](https://github.com/venishRamani/Frontend-Projects)** | A growing collection of 10+ mini web apps including a Todo App, Contact Manager, Password Generator, and UI components. | `HTML` `CSS` `JavaScript` | [View Code](https://github.com/venishRamani/Frontend-Projects) |
 
 ---
 
-### `03` // ACTIVITY & ENDPOINTS
+### 🛠️ Tech Arsenal
+<div align="center">
+  <img src="https://skillicons.dev" alt="Tech Stack" />
+</div>
 
-<p>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=VenishRamani&theme=highcontrast&hide_border=true&border_radius=4.6&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-</p>
+---
 
-<p>
-  <a href="https://github.com/VenishRamani"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/VenishRamani"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:ramanivenish2004@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+### 📊 GitHub Stats & Languages
+<div align="center">
+  <img height="165em" src="https://vercel.app" alt="Venish Ramani GitHub Stats" />
+  <img height="165em" src="https://vercel.app" alt="Top Languages" />
+</div>
+
+---
+
+### 🔄 Recent GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<!-- Dynamic Wave Footer -->
+<div align="center">
+  <img src="https://vercel.app" width="100%" />
+</div>
