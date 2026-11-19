@@ -36,7 +36,8 @@ Web developer focused on building responsive, user-friendly interfaces and relia
 | **`01`** | **[Hostel-Management](https://github.com/VenishRamani/Hostel-Management)** | `Facility Ops` | Automates student room allocation, resident profiles, and fee tracking. |
 | **`02`** | **[Frontend-Projects](https://github.com/venishRamani/Frontend-Projects)** | `Frontend-Projects` | All types of Frontend-Projects. |
 | **`03`** | **[Apartment-management](https://github.com/VenishRamani/Apartment-management)** | `Residential` | Centralizes flat directories, maintenance tickets, visitor entries, and billing. |
-| **`04`** | **[Tourism-website](https://github.com/VenishRamani/Tourism-website)** | `Tourism` | helps travelers discover destinations, compare trips, and book travel easily. |
+| **`04`** | **[Tourism-website](https://github.com/VenishRamani/Tourism-website)** | `Tourism` | Helps travelers discover destinations, compare trips, and book travel easily. |
+| **`05`** | **[CampIndia](https://github.com/VenishRamani/CampIndia)** | `Camping` | An outdoor area where people pitch tents or park campers to stay overnight in nature. |
 
 ---
 
