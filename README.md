@@ -1,106 +1,126 @@
-<!-- Minimalist Executive Header -->
-<div align="left">
-  <img src="https://demolab.com" alt="Venish Ramani" />
+<!-- Modern Full-Width Hero Banner -->
+<div align="center">
+  <img src="https://vercel.app" width="100%" alt="Venish Ramani Hero" />
 </div>
 
-> Designing production-ready full-stack web applications, intuitive user interfaces, and reliable backend architectures.
-
-<p align="left">
+<!-- Minimalist Floating Pill Navigation -->
+<div align="center">
   <a href="https://github.io" target="_blank">
-    <img src="https://shields.io" alt="Portfolio" />
+    <img src="https://shields.io🌐_Live_Portfolio-1F6FEB?style=for-the-badge&logoColor=white" alt="Live Portfolio" />
   </a>
+  &nbsp;
   <a href="https://github.com" target="_blank">
-    <img src="https://shields.io" alt="Repositories" />
+    <img src="https://shields.io⚡_Explore_Code-21262D?style=for-the-badge&logo=github&logoColor=white" alt="Explore Code" />
   </a>
-  <img src="https://shields.io" alt="Focus" />
-</p>
+  &nbsp;
+  <img src="https://shields.io📍_India-Open_to_Collaborate-238636?style=for-the-badge" alt="Status" />
+</div>
 
----
+<br />
 
-### `01 // ENGINEERING PROFILE & CAPABILITIES`
+<!-- Clean Bio Spotlight -->
+<div align="center">
+  <img src="https://demolab.com." alt="Bio" />
+</div>
 
+<br />
+
+## `✦` Featured Work
+
+<!-- 2x2 Modern Showcase Cards -->
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong>CORE COMPETENCIES</strong>
+      <a href="https://github.com">
+        <img src="https://shields.io01-CampIndia-1F6FEB?style=for-the-badge" alt="CampIndia" />
+      </a>
       <br /><br />
-      <ul>
-        <li><b>Full-Stack Architecture:</b> End-to-end system design from normalized databases to responsive frontends.</li>
-        <li><b>API & Backend Engineering:</b> Secure authentication, role-based access control, and RESTful services.</li>
-        <li><b>Interface Engineering:</b> Accessible, high-performance UI systems built with modern component patterns.</li>
-        <li><b>System Reliability:</b> Clean, modular codebases structured for maintainability and scale.</li>
-      </ul>
+      <strong>Outdoor Discovery & Trip Booking Platform</strong>
+      <p>Full-stack web application helping travelers explore curated camping destinations, compare packages, and book outdoor experiences across India.</p>
+      <img src="https://shields.ioFull--Stack-0D1117?style=flat-square" />
+      <img src="https://shields.ioBooking_System-0D1117?style=flat-square" />
+      <img src="https://shields.ioWeb_App-0D1117?style=flat-square" />
     </td>
     <td width="50%" valign="top">
-      <strong>TECHNICAL STACK</strong>
+      <a href="https://github.com">
+        <img src="https://shields.io02-Apartment_Management-8957E5?style=for-the-badge" alt="Apartment Management" />
+      </a>
       <br /><br />
-      <sub><b>FRONTEND</b></sub><br />
-      <img src="https://skillicons.dev" alt="Frontend" />
+      <strong>Smart Residential Operations Suite</strong>
+      <p>Centralized property management system streamlining flat directories, resident profiles, maintenance requests, visitor tracking, and automated billing.</p>
+      <img src="https://shields.ioPropTech-0D1117?style=flat-square" />
+      <img src="https://shields.ioDatabase_Design-0D1117?style=flat-square" />
+      <img src="https://shields.ioCRUD_Ops-0D1117?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com">
+        <img src="https://shields.io03-Tourism_Website-238636?style=for-the-badge" alt="Tourism Website" />
+      </a>
       <br /><br />
-      <sub><b>BACKEND & DATA</b></sub><br />
-      <img src="https://skillicons.dev" alt="Backend" />
+      <strong>Interactive Travel & Destination Portal</strong>
+      <p>Modern responsive travel showcase enabling users to discover destinations, inspect curated itineraries, and plan hassle-free getaways.</p>
+      <img src="https://shields.ioResponsive_UI-0D1117?style=flat-square" />
+      <img src="https://shields.ioTravel_Tech-0D1117?style=flat-square" />
+      <img src="https://shields.ioFrontend-0D1117?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com">
+        <img src="https://shields.io04-Frontend_Projects-D29922?style=for-the-badge" alt="Frontend Projects" />
+      </a>
       <br /><br />
-      <sub><b>WORKFLOW & TOOLS</b></sub><br />
-      <img src="https://skillicons.dev" alt="Tools" />
+      <strong>10+ Interactive Web Micro-Apps</strong>
+      <p>Curated collection of standalone UI builds including a Contact Manager, Todo App, Password Generator, and animated interactive components.</p>
+      <img src="https://shields.ioHTML5-0D1117?style=flat-square" />
+      <img src="https://shields.ioCSS3-0D1117?style=flat-square" />
+      <img src="https://shields.ioJavaScript-0D1117?style=flat-square" />
     </td>
   </tr>
 </table>
 
----
+<br />
 
-### `02 // FEATURED SYSTEMS & CASE STUDIES`
+## `✦` Tech Stack & Capabilities
+
+<div align="center">
+  <img src="https://skillicons.dev" alt="Tech Stack" />
+</div>
+
+<br />
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h4><code>SYS-01</code> &nbsp;<a href="https://github.com">CampIndia</a></h4>
-      <p>Full-stack outdoor discovery and trip booking platform connecting travelers with curated camping experiences across India.</p>
-      <p>
-        <img src="https://shields.io" alt="Travel and Booking" />
-        <img src="https://shields.io" alt="Full-Stack App" />
-      </p>
+    <td width="33%" align="center" valign="top">
+      <h4>🎨 Frontend Craft</h4>
+      <sub>Responsive layouts, interactive state management, and clean component architecture.</sub>
     </td>
-    <td width="50%" valign="top">
-      <h4><code>SYS-02</code> &nbsp;<a href="https://github.com">Apartment Management</a></h4>
-      <p>Residential operations platform centralizing flat directories, maintenance workflows, visitor logging, and automated billing.</p>
-      <p>
-        <img src="https://shields.io" alt="PropTech and Ops" />
-        <img src="https://shields.io" alt="Management System" />
-      </p>
+    <td width="33%" align="center" valign="top">
+      <h4>⚙️ Backend & APIs</h4>
+      <sub>RESTful API design, secure authentication flows, and scalable server logic.</sub>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><code>SYS-03</code> &nbsp;<a href="https://github.com">Tourism Website</a></h4>
-      <p>Responsive destination exploration portal enabling travelers to compare curated packages, itineraries, and regional highlights.</p>
-      <p>
-        <img src="https://shields.io" alt="Hospitality" />
-        <img src="https://shields.io" alt="Web Platform" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><code>SYS-04</code> &nbsp;<a href="https://github.com">Frontend Projects Suite</a></h4>
-      <p>Curated repository of 10+ standalone interactive web applications including a Contact Manager, Todo System, and Password Generator.</p>
-      <p>
-        <img src="https://shields.io" alt="UI Engineering" />
-        <img src="https://shields.io" alt="HTML CSS JS" />
-      </p>
+    <td width="33%" align="center" valign="top">
+      <h4>🗄️ Data & Deployment</h4>
+      <sub>Relational & NoSQL schema modeling, version control, and production deployment.</sub>
     </td>
   </tr>
 </table>
 
----
+<br />
 
-### `03 // CONTRIBUTION TELEMETRY`
+## `✦` Live GitHub Pulse
 
 <div align="center">
   <img src="https://demolab.com" alt="GitHub Streak" />
   <br /><br />
-  <img src="https://rshah.org" width="95%" alt="Venish Ramani GitHub Contribution Chart" />
+  <img src="https://rshah.org" width="95%" alt="Contribution Graph" />
 </div>
 
----
+<br />
 
+<!-- Clean Footer -->
 <div align="center">
-  <sub>Explore live deployments and detailed case studies at <a href="https://github.io"><b>venishramani.github.io/Portfolio</b></a></sub>
+  <a href="https://github.io">
+    <img src="https://shields.ioView_Full_Portfolio_%E2%86%92-venishramani.github.io%2FPortfolio-161B22?style=for-the-badge" alt="Portfolio Footer" />
+  </a>
 </div>
