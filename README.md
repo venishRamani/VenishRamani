@@ -26,7 +26,7 @@ const developer = {
       <strong>BACKEND & FRAMEWORKS</strong><br>
       <img src="https://skillicons.dev/icons?i=nodejs,python,java,cs,php,go,django,spring,git&theme=dark" alt="Backend" />
     </td>
-    <td width="35%" valign="top">
+    <td width="38%" valign="top">
       <strong>WEB DEV FOCUS</strong><br><br>
       <code>▸</code> Full-Stack Web Applications<br>
       <code>▸</code> Responsive UI & Component Architecture<br>
