@@ -1,6 +1,4 @@
-<div align="left">
-  <img src="https://demolab.com" alt="Venish Ramani" />
-</div>
+# `>_` Venish Ramani — Full-Stack Web Developer
 
 ```ts
 const developer = {
@@ -19,10 +17,10 @@ const developer = {
 <table>
   <tr>
     <td width="55%" valign="top">
-      <strong>FRONTEND</strong><br>
-      <img src="https://skillicons.dev" alt="Frontend" /><br><br>
-      <strong>BACKEND & FRAMEWORKS</strong><br>
-      <img src="https://skillicons.dev" alt="Backend" />
+      <strong>FRONTEND</strong><br><br>
+      <code>HTML5</code> &nbsp; <code>CSS3</code> &nbsp; <code>JavaScript</code> &nbsp; <code>TypeScript</code> &nbsp; <code>React</code> &nbsp; <code>Next.js</code><br><br>
+      <strong>BACKEND & FRAMEWORKS</strong><br><br>
+      <code>Node.js</code> &nbsp; <code>Python</code> &nbsp; <code>Java</code> &nbsp; <code>C#</code> &nbsp; <code>PHP</code> &nbsp; <code>Go</code> &nbsp; <code>Django</code> &nbsp; <code>Spring</code> &nbsp; <code>Git</code>
     </td>
     <td width="45%" valign="top">
       <strong>WEB DEV FOCUS</strong><br><br>
@@ -60,9 +58,7 @@ const developer = {
 ---
 
 <p align="center">
-  <a href="https://github.com"><img src="https://shields.io" height="35" alt="GitHub" /></a>
-  &nbsp;
-  <a href="https://linkedin.com"><img src="https://shields.io" height="35" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="mailto:ramanivenish2004@gmail.com"><img src="https://shields.io" height="35" alt="Email" /></a>
+  <kbd><a href="https://github.com">&nbsp; 🐙 <b>GITHUB</b> &nbsp;</a></kbd> &nbsp;&nbsp;
+  <kbd><a href="https://linkedin.com">&nbsp; 💼 <b>LINKEDIN</b> &nbsp;</a></kbd> &nbsp;&nbsp;
+  <kbd><a href="mailto:ramanivenish2004@gmail.com">&nbsp; ✉️ <b>EMAIL</b> &nbsp;</a></kbd>
 </p>
