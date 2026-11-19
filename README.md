@@ -48,9 +48,9 @@ Web developer focused on building responsive, user-friendly interfaces and relia
 ---
 
 <p align="center">
-  <a href="https://github.com/VenishRamani"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" height="35" alt="GitHub" /></a>
+  <a href="https://github.com/VenishRamani"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" height="45" alt="GitHub" /></a>
   &nbsp;
-  <a href="https://linkedin.com/in/VenishRamani"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/VenishRamani"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" height="45" alt="LinkedIn" /></a>
   &nbsp;
-  <a href="mailto:ramanivenish2004@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Email" /></a>
+  <a href="mailto:ramanivenish2004@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" height="45" alt="Email" /></a>
 </p>
