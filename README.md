@@ -1,4 +1,8 @@
-# Venish Ramani — Full-Stack Web Developer
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=E6EDF3&vCenter=true&width=500&height=35&lines=Venish+Ramani+%E2%80%94+Web+Developer;Building+Full-Stack+Web+Apps+%26+APIs" alt="Venish Ramani" />
+</div>
+
+Web developer focused on building responsive, user-friendly interfaces and reliable full-stack web applications.
 
 ```ts
 const developer = {
