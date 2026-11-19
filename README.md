@@ -1,68 +1,167 @@
-# Venish Ramani
-**Full-Stack Web Developer & Software Solutions Architect**
+<div align="center">
 
-Web developer focused on building responsive, user-friendly interfaces and reliable full-stack web applications.
+<!-- Executive Hero Box -->
+<table>
+  <tr>
+    <td align="center">
+      <code>✦ FULL-STACK WEB DEVELOPER</code> &nbsp;•&nbsp; <code>✦ SOFTWARE SOLUTIONS ARCHITECT</code> &nbsp;•&nbsp; <code>🟢 OPEN TO WORK</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <br />
+      <h1>Venish Ramani</h1>
+      <p><strong>Building fast, responsive interfaces and reliable full-stack web applications.</strong></p>
+      <p>
+        <a href="https://github.io"><img src="https://shields.io" alt="Portfolio" /></a>
+        <a href="https://github.com"><img src="https://shields.io" alt="GitHub" /></a>
+        <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn" /></a>
+        <a href="mailto:ramanivenish2004@gmail.com"><img src="https://shields.io" alt="Email" /></a>
+      </p>
+      <br />
+    </td>
+  </tr>
+</table>
 
-🌐 **Live Portfolio:** [venishramani.github.io/Portfolio](https://github.io) &nbsp;•&nbsp; 🐙 **GitHub:** [github.com/VenishRamani](https://github.com/VenishRamani) &nbsp;•&nbsp; 💼 **LinkedIn:** [linkedin.com/in/VenishRamani](https://linkedin.com/in/VenishRamani) &nbsp;•&nbsp; ✉️ **Email:** [ramanivenish2004@gmail.com](mailto:ramanivenish2004@gmail.com)
+<br />
 
----
+### `01` &nbsp;//&nbsp; **STACK & ARCHITECTURE**
 
-### `01` // STACK & RUNTIME
+<table>
+  <tr>
+    <td width="55%" align="center" valign="top">
+      <br />
+      <strong>🎨 FRONTEND ENGINEERING</strong><br /><br />
+      <img src="https://skillicons.dev" alt="Frontend Stack" />
+      <br /><br />
+      <strong>⚙️ BACKEND, FRAMEWORKS & GIT</strong><br /><br />
+      <img src="https://skillicons.dev" alt="Backend Stack" />
+      <br /><br />
+    </td>
+    <td width="45%" align="left" valign="top">
+      <br />
+      <strong>🎯 CORE WEB DEV FOCUS</strong><br /><br />
+      <code>▸</code> <b>Full-Stack Web Systems</b> — End-to-end delivery from database schema to client UI.<br /><br />
+      <code>▸</code> <b>Component Architecture</b> — Clean, responsive, and reusable frontend interfaces.<br /><br />
+      <code>▸</code> <b>Multi-Stack REST APIs</b> — Scalable server logic across Node, Python, Java, PHP & Go.<br /><br />
+      <code>▸</code> <b>Auth & Data Integrity</b> — Role-based access control and normalized relational schemas.
+      <br /><br />
+    </td>
+  </tr>
+</table>
 
-**Frontend Engineering**  
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark" alt="Frontend Stack" />
+<br />
 
-**Backend & Frameworks**  
-<img src="https://skillicons.dev/icons?i=nodejs,python,java,cs,php,go,django,spring,git&theme=dark" alt="Backend Stack" />
+### `02` &nbsp;//&nbsp; **SELECTED SYSTEMS & LIVE DEMOS**
 
-**Core Web Dev Focus**
-* **Full-Stack Web Applications:** End-to-end delivery from database schema to interactive client interfaces.
-* **Responsive UI & Component Architecture:** Clean, mobile-first layouts engineered for speed and usability.
-* **Multi-Stack RESTful APIs:** Scalable server logic across Node.js, Python/Django, Java/Spring, PHP, and Go.
-* **Authentication & Database Design:** Secure role-based access control and normalized relational data models.
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <br />
+      <code>SYS // 01</code> &nbsp;•&nbsp; <code>FACILITY OPS</code>
+      <h3>🏨 <a href="https://github.com/Hostel-Management">Hostel-Management</a></h3>
+      <p>Automates student room allocation, resident profiles, attendance logs, and fee tracking in a centralized portal.</p>
+      <p>
+        <a href="https://github.io"><img src="https://shields.io" alt="Live Demo" /></a>
+        <a href="https://github.com/Hostel-Management"><img src="https://shields.io" alt="Source Code" /></a>
+      </p>
+      <details>
+        <summary><code>🔍 System Highlights</code></summary>
+        <br />
+        Room Allocation • Fee Tracking • Resident Directory
+      </details>
+      <br />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <br />
+      <code>SYS // 02</code> &nbsp;•&nbsp; <code>TRAVEL & CAMPING</code>
+      <h3>🏕️ <a href="https://github.com/CampIndia">CampIndia</a></h3>
+      <p>Full-stack camping discovery and booking platform helping travelers explore outdoor destinations and reserve stays across India.</p>
+      <p>
+        <a href="https://github.io"><img src="https://shields.io" alt="Live Demo" /></a>
+        <a href="https://github.com/CampIndia"><img src="https://shields.io" alt="Source Code" /></a>
+      </p>
+      <details>
+        <summary><code>🔍 System Highlights</code></summary>
+        <br />
+        Destination Search • Package Comparison • Trip Booking
+      </details>
+      <br />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <br />
+      <code>SYS // 03</code> &nbsp;•&nbsp; <code>RESIDENTIAL OPS</code>
+      <h3>🏢 <a href="https://github.com/Apartment-management">Apartment-Management</a></h3>
+      <p>Centralizes flat directories, resident onboarding, maintenance tickets, visitor entries, and automated society billing.</p>
+      <p>
+        <a href="https://github.io"><img src="https://shields.io" alt="Live Demo" /></a>
+        <a href="https://github.com/Apartment-management"><img src="https://shields.io" alt="Source Code" /></a>
+      </p>
+      <details>
+        <summary><code>🔍 System Highlights</code></summary>
+        <br />
+        Role-Based Access • Maintenance Ticketing • Automated Billing
+      </details>
+      <br />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <br />
+      <code>SYS // 04</code> &nbsp;•&nbsp; <code>TOURISM PORTAL</code>
+      <h3>✈️ <a href="https://github.com/Tourism-website">Tourism-Website</a></h3>
+      <p>Responsive travel showcase enabling explorers to discover destinations, compare tour packages, and plan trips effortlessly.</p>
+      <p>
+        <a href="https://github.io"><img src="https://shields.io" alt="Live Demo" /></a>
+        <a href="https://github.com/Tourism-website"><img src="https://shields.io" alt="Source Code" /></a>
+      </p>
+      <details>
+        <summary><code>🔍 System Highlights</code></summary>
+        <br />
+        Itinerary Discovery • Mobile-First UI • Fast Asset Delivery
+      </details>
+      <br />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <br />
+      <code>SYS // 05</code> &nbsp;•&nbsp; <code>UI ENGINEERING SUITE</code>
+      <h3>⚡ <a href="https://github.com/Frontend-Projects">Frontend-Projects</a></h3>
+      <p>Collection of 10+ standalone browser applications including a Contact Manager, Todo App, Password Generator, and interactive UI components.</p>
+      <p>
+        <a href="https://github.io"><img src="https://shields.io" alt="Live Demo" /></a>
+        <a href="https://github.com/Frontend-Projects"><img src="https://shields.io" alt="Source Code" /></a>
+      </p>
+      <details>
+        <summary><code>🔍 System Highlights</code></summary>
+        <br />
+        HTML5 • CSS3 • ES6+ JavaScript • LocalStorage & DOM Craft
+      </details>
+      <br />
+    </td>
+  </tr>
+</table>
 
----
+<br />
 
-### `02` // SELECTED SYSTEMS & LIVE DEMOS
+### `03` &nbsp;//&nbsp; **ACTIVITY & CONNECT**
 
-#### `01` &nbsp; [Hostel-Management](https://github.com/VenishRamani/Hostel-Management) — *Facility Operations System*
-Automates student room allocation, resident profiles, attendance logs, and fee tracking in a centralized portal.
-* **Links:** [🌐 Live Demo ↗](https://github.io) &nbsp;|&nbsp; [💻 Source Code ↗](https://github.com/VenishRamani/Hostel-Management)
-* **Domain:** `Facility Ops` `Management System` `Database`
+<table>
+  <tr>
+    <td align="center">
+      <br />
+      <a href="https://git.io">
+        <img src="https://demolab.com" alt="GitHub Streak" />
+      </a>
+      <br /><br />
+      <a href="https://github.io"><img src="https://shields.io" alt="Portfolio" /></a>
+      <a href="https://github.com"><img src="https://shields.io" alt="GitHub" /></a>
+      <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn" /></a>
+      <a href="mailto:ramanivenish2004@gmail.com"><img src="https://shields.io" alt="Email" /></a>
+      <br /><br />
+    </td>
+  </tr>
+</table>
 
-#### `02` &nbsp; [CampIndia](https://github.com/VenishRamani/CampIndia) — *Outdoor Discovery & Booking Platform*
-Full-stack camping discovery and booking web platform helping travelers explore outdoor destinations, pitch tents, and reserve stays across India.
-* **Links:** [🌐 Live Demo ↗](https://github.io) &nbsp;|&nbsp; [💻 Source Code ↗](https://github.com/VenishRamani/CampIndia)
-* **Domain:** `Travel & Camping` `Booking Engine` `Full-Stack`
-
-#### `03` &nbsp; [Apartment-Management](https://github.com/VenishRamani/Apartment-management) — *Residential Operations Suite*
-Centralizes flat directories, resident onboarding, maintenance tickets, visitor entries, and automated society billing.
-* **Links:** [🌐 Live Demo ↗](https://github.io) &nbsp;|&nbsp; [💻 Source Code ↗](https://github.com/VenishRamani/Apartment-management)
-* **Domain:** `Residential Ops` `Role-Based Access` `CRUD`
-
-#### `04` &nbsp; [Tourism-Website](https://github.com/VenishRamani/Tourism-website) — *Travel & Destination Portal*
-Responsive travel showcase enabling explorers to discover destinations, compare tour packages, and plan trips effortlessly.
-* **Links:** [🌐 Live Demo ↗](https://github.io) &nbsp;|&nbsp; [💻 Source Code ↗](https://github.com/VenishRamani/Tourism-website)
-* **Domain:** `Tourism` `Responsive UI` `Web Platform`
-
-#### `05` &nbsp; [Frontend-Projects](https://github.com/VenishRamani/Frontend-Projects) — *10+ Interactive Web Apps*
-Collection of standalone browser applications including a Contact Manager, Todo App, Password Generator, and interactive UI components.
-* **Links:** [🌐 Live Demo ↗](https://github.io) &nbsp;|&nbsp; [💻 Source Code ↗](https://github.com/VenishRamani/Frontend-Projects)
-* **Domain:** `UI Engineering` `HTML5` `CSS3` `JavaScript`
-
----
-
-### `03` // ACTIVITY & ENDPOINTS
-
-<p>
-  <a href="https://git.io/streak-stats">
-    <img src="https://demolab.com" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p>
-  <a href="https://github.io"><img src="https://shields.io" alt="Portfolio" /></a>
-  <a href="https://github.com/VenishRamani"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/VenishRamani"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:ramanivenish2004@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+</div>
