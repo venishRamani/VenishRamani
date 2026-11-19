@@ -4,6 +4,8 @@
 
 Web developer focused on building responsive, user-friendly interfaces and reliable full-stack web applications.
 
+🌐 **Portfolio:** [venishramani.github.io/Portfolio](https://github.io)
+
 ---
 
 ### `01` // STACK & RUNTIME
@@ -41,13 +43,8 @@ Web developer focused on building responsive, user-friendly interfaces and relia
 
 ---
 
-### `03` // ACTIVITY & ENDPOINTS
-
 <p>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=VenishRamani&theme=highcontrast&hide_border=true&border_radius=4.6&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-</p>
-
-<p>
+  <a href="https://github.io"><img src="https://shields.io" alt="Portfolio" /></a>
   <a href="https://github.com/VenishRamani"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/VenishRamani"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ramanivenish2004@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
