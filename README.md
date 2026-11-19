@@ -1,8 +1,16 @@
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=E6EDF3&vCenter=true&width=500&height=35&lines=Venish+Ramani+%E2%80%94+Web+Developer;Building+Full-Stack+Web+Apps+%26+APIs" alt="Venish Ramani" />
+  <img src="https://demolab.com" alt="Venish Ramani" />
 </div>
 
-Web developer focused on building responsive, user-friendly interfaces and reliable full-stack web applications.
+```ts
+const developer = {
+  name: "Venish Ramani",
+  role: "Full-Stack Web Developer",
+  focus: ["Responsive Web Interfaces", "RESTful APIs", "Database Architecture"],
+  portfolio: "https://github.io",
+  openToWork: true,
+};
+```
 
 ---
 
@@ -12,9 +20,9 @@ Web developer focused on building responsive, user-friendly interfaces and relia
   <tr>
     <td width="55%" valign="top">
       <strong>FRONTEND</strong><br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark" alt="Frontend" /><br><br>
+      <img src="https://skillicons.dev" alt="Frontend" /><br><br>
       <strong>BACKEND & FRAMEWORKS</strong><br>
-      <img src="https://skillicons.dev/icons?i=nodejs,python,java,cs,php,go,django,spring,git&theme=dark" alt="Backend" />
+      <img src="https://skillicons.dev" alt="Backend" />
     </td>
     <td width="45%" valign="top">
       <strong>WEB DEV FOCUS</strong><br><br>
@@ -33,24 +41,28 @@ Web developer focused on building responsive, user-friendly interfaces and relia
 
 | ID | System | Domain | What It Solves |
 | :--- | :--- | :--- | :--- |
-| **`01`** | **[Hostel-Management](https://github.com/VenishRamani/Hostel-Management)** | `Facility Ops` | Automates student room allocation, resident profiles, and fee tracking. |
-| **`02`** | **[Frontend-Projects](https://github.com/venishRamani/Frontend-Projects)** | `Frontend-Projects` | All types of Frontend-Projects. |
-| **`03`** | **[Apartment-management](https://github.com/VenishRamani/Apartment-management)** | `Residential` | Centralizes flat directories, maintenance tickets, visitor entries, and billing. |
-| **`04`** | **[Tourism-website](https://github.com/VenishRamani/Tourism-website)** | `Tourism` | Helps travelers discover destinations, compare trips, and book travel easily. |
-| **`05`** | **[Camping site](https://github.com/VenishRamani/CampIndia)** | `Camping` | An outdoor area where people pitch tents or park campers to stay overnight in nature. |
+| **`01`** | **[Hostel-Management](https://github.com)** | `Facility Ops` | Automates student room allocation, resident profiles, and fee tracking. |
+| **`02`** | **[Frontend-Projects](https://github.com)** | `Frontend-Projects` | Collection of interactive frontend web apps and UI builds. |
+| **`03`** | **[Apartment-management](https://github.com)** | `Residential` | Centralizes flat directories, maintenance tickets, visitor entries, and billing. |
+| **`04`** | **[Tourism-website](https://github.com)** | `Tourism` | Helps travelers discover destinations, compare trips, and book travel easily. |
+| **`05`** | **[Camping site](https://github.com)** | `Camping` | Full-stack camping discovery and booking platform for outdoor stays. |
 
 ---
 
-### `03` // PORTFOLIO
+### `03` // PORTFOLIO & DEPLOYMENTS
+
+```bash
+\$ open https://github.io
+```
 
 🌐 **Live Portfolio:** **[venishramani.github.io/Portfolio ↗](https://github.io)** — Explore live project demos, UI builds, and full case studies.
 
 ---
 
 <p align="center">
-  <a href="https://github.com/VenishRamani"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" height="45" alt="GitHub" /></a>
+  <a href="https://github.com"><img src="https://shields.io" height="35" alt="GitHub" /></a>
   &nbsp;
-  <a href="https://linkedin.com/in/VenishRamani"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" height="45" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com"><img src="https://shields.io" height="35" alt="LinkedIn" /></a>
   &nbsp;
-  <a href="mailto:ramanivenish2004@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" height="45" alt="Email" /></a>
+  <a href="mailto:ramanivenish2004@gmail.com"><img src="https://shields.io" height="35" alt="Email" /></a>
 </p>
